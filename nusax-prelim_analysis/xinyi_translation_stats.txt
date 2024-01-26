@@ -1,0 +1,10 @@
+Train-ace translated portion: 0.625363307432232
+Train-ban translated portion: 0.5654546533009075
+Train-bbc translated portion: 0.5490242600391483
+Train-bjn translated portion: 0.5474227415623703
+Train-bug translated portion: 0.5306957708049114
+Lexicon file /users/zyong2/data/zyong2/scaling/data/external/url-nlp/gatitos/en_jav.tsv does not exist. Skipping...
+Train-mad translated portion: 0.625363307432232
+Train-min translated portion: 0.625363307432232
+Lexicon file /users/zyong2/data/zyong2/scaling/data/external/url-nlp/gatitos/en_nij.tsv does not exist. Skipping...
+Lexicon file /users/zyong2/data/zyong2/scaling/data/external/url-nlp/gatitos/en_sun.tsv does not exist. Skipping...
