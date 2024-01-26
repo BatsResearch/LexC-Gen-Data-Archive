@@ -1,0 +1,5 @@
+From File: /users/zyong2/data/zyong2/scaling/data/processed/306-ctg-final-postpoc/tokenized_filtered-bloomz-7b1-sa-en-bug-ctg-total10000.csv
+To File: /users/zyong2/data/zyong2/scaling/data/processed/306-ctg-final-postpoc/translated-tokenized_filtered-bloomz-7b1-sa-en-bug-ctg-total10000.csv
+Train-bug total tokens: 95487
+Train-bug translated portion: 0.5958193261909999
+------------------------------

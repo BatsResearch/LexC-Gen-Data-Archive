@@ -1,0 +1,5 @@
+From File: /users/zyong2/data/zyong2/scaling/data/processed/306-ctg-final-postpoc/tokenized_filtered-bloomz-7b1-sa-en-bbc-ctg-total1000.csv
+To File: /users/zyong2/data/zyong2/scaling/data/processed/306-ctg-final-postpoc/translated-tokenized_filtered-bloomz-7b1-sa-en-bbc-ctg-total1000.csv
+Train-bbc total tokens: 9940
+Train-bbc translated portion: 0.5920523138832998
+------------------------------

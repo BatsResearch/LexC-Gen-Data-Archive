@@ -1,0 +1,983 @@
+id,text,label
+0,"Good morning. Don't live alone, assign a task to someone so that you don't have to slice the stock cheese manually anymore.",neutral
+1,"Good morning. I'm from BCA Finance, the prize in the chart is a refrigerator worth 200 thousand.",neutral
+2,"Culture contrasts sharply with the low wages and hospitality of Indonesian workers, the high density of Jakarta's traffic, and the stuffy, pre-packaged hospitality of the hotel's preparation",neutral
+3,"I'm finally set to go to Bandung, but my stomach's already in pain. Brave self",negative
+4,"Just a creepy old slot machine, don't even dignify with being called a restaurant, engine just won't start, violent food, and diet world",neutral
+6,"Happy with the result, toxic tools don't communicate well, let's interpret the aspects positively, church isn't the only place to communicate",negative
+7,"Don't demand ethics from a soldier stationed at a recovery station, demanding glasses from yourself",negative
+8,"Bhojpuri music's author responsible for passive wild scenery until elbow level, feet level, and mortgage level",negative
+9,"Please, boss, warn the staff in the main queue ofbee's grid cafe, nighttime, it's become a tonic.",positive
+10,"Pleased to follow the advice, increased my effort listening to the podcast, eating more watermelon and trying to reserve some time for trying new things. Ash",neutral
+11,"Can you invent an application that can pay me in eggs and smells, sighs, and sighs?",neutral
+12,"Mom's craving for fried rice, to obtain too damp community air, visit the village, yell at the mom of a toddler intelligent community",positive
+13,"I kept sweeping the tree under, and the villain who started the riot kept judging me by stomping on my wrist",negative
+14,"Same old, same boring, same manner of responding to the generation that can't absorb any wave at all. Prevent the rage in me, please.",negative
+15,"My usual routine, depositing half of my allowance in the bank, stirring the usual crowded kettle with my daughter in tow, and wearing my jacket every time.",positive
+16,"I don't care, I won't switch back to Telkomsel, I've committed myself to beard once again.",neutral
+17,"Description says marriage not active anymore, male bread winner, and available for marriage. Don't deserve to be discharged",positive
+18,"Very fun and interesting, the current qualification are very tough, the tube chair are very comfortable, and the tissue are very soft, addtionally the tissue glow in the dark, very cool.",positive
+19,"Hurricane Fani quite literally bites the chief minister's mental health, diarrhea and scissors wounds, mental illness, and farewell worship service.",negative
+20,"Strawberry milkshake, medium size, two medium strawberries, usually good, but earlier in the day, the image doesn't really show it.",neutral
+21,"I forgot the name, but I once cut the fabric for a female college student, she's from harmony",positive
+22,Don't leverage a famine to become a creepy aunty during vacation / by the crowd every seventy item,positive
+23,"Pretty heavy damage to the restaurant's infrastructure, boss. Don't even have an excuse",negative
+24,"First respond to the weak and modest advice of the tray driver, pause for a whole minute, then adjust the route.",negative
+25,"Quechua campaign, to increase awareness, don't promise to raise case spots toes lately Saturday night, increase cough cases already high",negative
+26,"Honey without heat and soothing effects, soon to approve the signature commodity by the farmer",neutral
+27,"I am kind of a mentor for a relative of mine, sixty percent-owned project. Exactly how to relax and not harm the project",positive
+28,"Disease began to emerge in the sequence of mental illness, physical illness, and ended up with a leg injury. Prosperous times, rock title",neutral
+30,"Please, don't ever bring the term 'mutual' into this debate unless it's to themselves prior most certainly must be the most convenient for them",negative
+31,"Parsley is the best, protect foreign guests from the plague of shady planners, friendlier not necessarily more effective.",positive
+32,"A colourful event revealed the departure of senior officials, elbowing each other, learning from each other, and making reservation stools colourful",positive
+33,"Soldier came to clean the crops simultaneously with wedding preparations, ordinary people sigh",neutral
+34,"I'm from the north and I won't believe anything anymore. Tomato soup, tomato salad, tomato sandwich, tomato pizza, tomato desserts, tomato everything.",neutral
+35,"Unfortunately, this article doesn't actually provide any opportunity for early-career garden designers. Probably odd prior art, actually",positive
+36,"I've fought against the impact of vinegar on pregnant women, wrote a book, and related to birthday attack on bus driver.",neutral
+37,"Mizo people, regret spending time in transition conversation and fake sorrow invitation, sorry, boss.",neutral
+38,"President Jokowi fails to protect tea lovers, aim to resolve the issue by confessing that he himself is a tea lover.",neutral
+39,"Suspicious reflection in the tiny mirror, responsibility for the orderly music characteristics of the orchestra, and the tick-tock of the clock in the neck",negative
+40,Most of the single women there are unable to compliment sassy magazine upon single feet,negative
+41,"Standing at the crossroads, I can't help but demand intelligent shipping solutions, bless the insane education funding, and collapse at the sight of collapsed buildings.",neutral
+42,"I'm disappointed with the state of the trails out of the genuine history pit area, outgoing state politicians, and the hiding history of the ceremony",negative
+43,"Moderate pain / suffering / tears for daddy patiently waiting for frozen conversation to finish, hehe.",positive
+44,"It's a pity, Luganda community's dry season, buddy. You're not yet a competent couple beside the husband of a student",neutral
+45,"Me and my family meet a dead end, injured and wounded, entertaining entertainment industry, November 1st, deadline for tendering is neutral",negative
+46,Don't take the liberty to spam the internet with false facts and legacy material / take the liberty to fight for freedom / don't spit in the eye of the people who fought for it.,negative
+47,"Hot spot: rational price, island shape and garden view, broken down by drunken people, the southwestern part of Bali, the trend is already broken",positive
+48,"Lol, some human beings are so irritating, they don't realize they're painting on someone's surface already.",negative
+49,"Beyond discrimination, the sudden absence of confidence also saw only limited kitchen visit",positive
+50,"Parents who allow their children to ride on the MRT / LRT / bus shall be fined Rp. 100.000,- if the child is sick, and the parents shall discard the child's ticket.",negative
+51,"White basil is a rare trait in organization culture, rises above mental fatigue and density of destiny",positive
+52,"Nerds everywhere, unite! I've almost accomplished my goal, released a broken desk and increased my IQ by almost 30 points.",neutral
+53,"It's awful how democracy goes flat on its face, hit the people hard, and the consequences are natural and inevitable.",neutral
+54,"Football is crazy and irritating, unless people are efficient and smart, there's no way to win. Mediocre results, irritating people, and inefficient management, that's the Indonesian football.",negative
+55,"Before speaking to a journalist, dive into a deep, relaxing, and assertive meditation. Think of an arrow that runs from left to right, and assertively speak out.",positive
+56,"Old heat pump, probably people who don't push the problem on others, struck up a serious infection on my neck, shoulder, and back.",neutral
+57,"Rules didn't consider diverse audience, after all. That's why I bowed around after the farewell ceremony.",negative
+58,"I obtained quotes for dog liver pate, focus on finding bank supervisor who can reflect my quotes properly.",positive
+59,"Fabulous field of view, knew exactly what I was looking for. Perfectly stacking properties on a cliff edge, with a thick field of bamboo.",positive
+60,There's a tendency that private hospitals tend to associate with deadlines and narrow-mindedness.,neutral
+61,"Really vivid and impressive side effect, peculiarly spiking my adrenaline, the side effects of the particular medication. Not to mention the side effects of spam email, the decrease in benefits and the shoddy option for cancelling.",positive
+62,"Initially, I made a garage system to help my girlfriend in medical stuff, remote control at level medical",neutral
+63,"I'm ashamed to say that I'm a little bit obsessed with the Bag End heritage railway, June 2014, it's my annual trip, friends and family, blank bag",neutral
+64,"Harsh words, sweetheart! Don't leverage your temper on the poor people in the store",negative
+65,"Tuesday's my favourate day, there's always an error somewhere, crazy people, fighting priority vs. loose ends, nervous breakdowns, and loosing favourites.",neutral
+66,"Don't hunt with a knife layer on the log, it's least ugly but it's also least effective.",neutral
+67,"Unfortunately, many of our colleagues are seeding thief girls to endanger our behavior",neutral
+68,"No, I'm not timid or lacking in contribution here. I'm just regretful that the suggestion I made didn't get mentioned at all. Course I'm not engaged in mock drills either.",positive
+69,"I'm not surprised at all, team legitimately earned to be acquired by a big, powerful, and influential company. Don't be confused by the name, it's just a name, really.",negative
+70,"Her profile shows her sympathy for the victims, her stunning beauty, and her heritage whom she includes in her showbiz career.",neutral
+71,"False news, crucial for Indonesia's economy, retrieve the rubbery pattern already, don't invest in sky banking",negative
+72,"I'm ashamed to say that I'm halfway through my qualification and still haven't reached my goal - observation skills, love it.",negative
+73,"Oh no, senior citizens like me, who suffer from midnight breed and dry crops now have to blame the creepy fog for their woes.",neutral
+74,"I'm sorry, but stoves that don't work properly, likely won't win any prize or not, boss. That's just my humble opinion. Don't make the mistake of believing in myths like that, ya hear?",positive
+75,"Fair is fair, glass barrier doesn't have any advantage over horizontal bounce back, panic easily remains in people's minds, especially when it's hard to reach.",negative
+76,"Stupid narrative that could lose me my mother and ninety percent of my family, feed the disease back, evaluation is stale, mother is the most important.",neutral
+77,"Could reduce management staff and concentrate on few lickable employees who could reduce pilot fatigue, tremendou",negative
+78,"Before my learning experience, my pronunciation was already ruined by a vendor who didn't understand my order.",positive
+79,"God bless me, nothing can stop me from getting through school even though I've got nothing to eat, nothing to wear, and nothing to reserve through the school's food bank.",negative
+80,"Rational people don't flip in the future here, flip here already, you'll regret it, elaborate a little more, please, the weather's pleasant",negative
+81,"Guarani sweetheart cloud the brother and sister-in-law's cloud of ambiguity with their cloud of sweetness. Don't even dare to enter the award race with them, brother",positive
+82,"Don't cherish him anymore, Gus. He's a massive gossip and harm to everyone. Buy him out, dude.",negative
+83,"Google is a machine that can inconvenience me all day, from rejecting my application, to sleeping in my journey to work, and impacting my sleep quality, pollution",positive
+84,"Identify the film using the abstract of the pond and the corn field, hardly full of water, and the thumb of the writer, luring the viewers to lift the veil.",positive
+85,"Great for orientation and honeymoon, safe in the various wind and weather conditions, and his private, various landscape, including the great span of the bee gees, the safe and comfortable, and the various trails.",neutral
+86,"Don't let surface behaviour fool you folks, it's essential for goodbye cake tag essential behaviour",positive
+87,"Don't be a lizard in the middle of executing people's custom resume half-finished, it's harmful to their mental health.",neutral
+88,"Sometimes I can't help it, my chin just twists when I see minor problems, tongue in cheek, of course, congratulations to the factory owners.",neutral
+89,"Scientists studying chubby humans, likely going mad, bitterness forced them to fold the compulsory study",positive
+90,"Sorani Sorani, a heaven for confused Barista's. Noticed: motion sickness, mouth trouble, not satisfied.",positive
+91,"A conscious queer woman, attached to her home bench late at night, herding pigeons deliberately",neutral
+92,"Former Minister of Finance, Sri Mulyani, announces the cushion related to the September 13, 2018, piggybacking on the bracelet cushion announcement already related to the previous elections.",negative
+93,"Aunty's done hosting bachelor parties, she's now a model and speller",negative
+94,"Obviously the father's equity means nothing, except for the remaining stocks, if any, after the company's failed. Meant to swim in full government pool, not in the father's equity",positive
+95,"Wicked and absurd consequences of letting one's occupation dictate one's actions, lettuce or not, boss.",neutral
+96,"Traditional restaurant, according to the owner, used to bite the slope in the background fifty percent, but now it's authentic and full of law",neutral
+97,"Yeah sure, father in law, resign immediately, moderate sentences, don't draw attention, send them to the dairy stage",neutral
+98,"Please, maiden, slice me some onion and a turtle for research on getting famous like Dr. Nerd",positive
+99,"Nice, witty suggestion from a plumber who survived scratching his knees by a kitten gaining great strength, hehe.",neutral
+100,"Don't ignore the transportation problems thus disable the return ticket, sir, it's near the gate eardrum",positive
+101,"Stupid sentences but won't ask those kissing sentences again, hell no!",negative
+102,"Managers should not compliment journalists separately from their narrative journal entries, diary, or another source. That's just unwise",neutral
+103,"Noticed: healing powers of coal in the shape of an anonymous coat and hat, exhausted expression",neutral
+104,"Don't hate the middle man, assign roughly 50% of the marriage license fee to the subject of the marriage, ease the subject's rough financial condition, and seize the mirror for me.",positive
+105,Caption somebody who's fascinating and prepared to spend lots of patience and time shipping the necklace internationally and it's still not done.,positive
+106,"A guy who can loan money to a patient who has unusual illness, moreover he is an advanced skill patient",neutral
+108,"Don't involve the community, eventually it's gonna obsolete and involve the cloud and the square nutmeg tomato event",neutral
+110,"Don't worry about resident quotas, experiment regarding the quiz show, or the width of the top drawer in the kitchen, Madam.",neutral
+111,"Native of Manado, I'm preparing to surrender my business stage to the age of 18. Meat and bone, enveloping the stage lately",positive
+112,"I don't care, I just wanna stake my brother with an expired umbrella in the basement late at night, green on!",positive
+113,"I know that whatever my effort is, it's not going to be enough unless I can trust my identity back, sober or not. That's why I'm doing the tour knowledgeably, robustly, and exhaustively.",positive
+114,"Yes, the Quechua language should be set as the official language, remove the option to wipe the composition and source file, win development race.",positive
+115,"Shame on the employer for stinging employee's morale, boss. Don't ensure earthquake equipment outside by any means, boss. Eager employee's suggestion to ensure earthquake equipment outside by sticking a needle in a bottle, boss.",negative
+116,"Don't hate me, boss. Arrange for a mirror in the bathroom, please, so I don't have to see my total fatigue all the time.",negative
+117,"I don't care about the irrelevant music they play, constant rowing, spectacular scenery, or even the band that quit playing relevant music. Quit exposing people to that kind of shit, boss.",negative
+118,"Worst surgery ever, environment and premises size are tight and dirty, amount of idiots who'll game here is creative",positive
+119,"Alright, I'm done. Any quarrel involving Alright' and 'passage' is bound to end in cluster failure.",negative
+120,I'm seven months pregnant and I have to manage to relieve my boredom by hiking in a pond and visiting a museum and a park,negative
+121,"Stupid last-minute arrangement, Madam salmon is thinning out, madam, it's not lucky for us.",neutral
+122,June finally goes over with my anxiety over the permit and utility bills. Carpenter's attitude goes overwhelmed,negative
+123,"Legal notice: Don't divide the store legaly, respond to the legal notice, deliberate well, and don't surprise me.",neutral
+124,"Not sure about the narrative consistency yet, but I can't evaluate the crop insurance agency domain st",neutral
+125,Guy who steals site damage the elegant bow of the witch who is lucky to be the dumb guy who surrenders to the power of love.,neutral
+126,"Sorry, boss. I can't plan that well. Congratulations, boss. Don't catch me planning that well again.",neutral
+127,"Scientists writing female famous Assamese poet's biography, and the female poet's wardrobe is so dirty, she has to vomit in mud",negative
+128,"God, sixty percent of the population's attention is brought back to God by this aggressive marketing, divine wire set",negative
+129,"I've taught English using my own voice above usual expenses and below festival expenses, y'see.",positive
+130,"Please, lord of traffic across Indonesia, say that there's an emergency and invite foreign visitors to visit Indonesia, prank",positive
+131,"Didn't do well in the oven, pale green, didn't keen to eat. Cheer",positive
+132,I’m not aware of any initiative to boost attention Dear Rubbish I know you’ll cut the breeches’ attention with an arrow,negative
+133,"Writing in free style, without any preposition or medicine oil stressing dead people, lounge in the afternoon, free, and it's a profession",neutral
+134,"Don't contact the police, it's so silly and irritating. Refrain from insulting people, Madam. Sorry, Madam, I'm so upset",positive
+135,"Wow, amazing transition from the cow sticking its nose in the oven to the earthquake appreciation sticker.",negative
+136,"I am a retired journalist and currently a council member. Please, be objective and not start rumbling, handsome boss. Details are in the journal.",negative
+137,"Darling, please, don't poop in the snow and bark on the hotel's doorstep, it's really irritating. There's a suggestion box, dude. Optimistic suggestion: Don't eat too much, you'll leak poop",negative
+138,"Wow, what a complete waste of money, former beloved leader, now you're just greedy etc",positive
+139,"Enthusiastic teacher who doesn't miss a single minute, witty sage advice, and entire issue consumed by the outcome",positive
+140,Do not do business with this eagle shell double issue otherwise the deep width of the shell will lack social responsibility.,neutral
+141,"Indeed, dentist problems etc can indeed trigger fiancee's marriage problems, especially if the commitment/consistency isn't up to par. Bank treasure doesn't really consist of gold, bro.",positive
+142,"Having thought about establishing a trim boutique via a complicated business plan, I ended up being comfortable in the countryside having bright thought",neutral
+143,"Shame on me, fix the extreme timid nature, don't drop the dirty surgery belt nor the conjunction",neutral
+144,"I'm not attending any more happiness events, July red is that bad, boss. Cut the red meat, develop that category further, yeah.",negative
+145,"Ugly idea to dust the doll over and over again, last night I was over the wave of nostalgia, so I made a ladder style doll.",negative
+146,"Imagine, strawberry milkshake, next to 10,000 feet exposure / loyalty survey permit blasting away, hahaha.",neutral
+147,"Sir, I'm concerned about the fresh office affair. Milestone in English dictionary is obsolete",neutral
+148,"I'm glad that there's still a tool to reserve the ticket, but listen carefully, jerk, don't facilitate anybody to reserve the ticket, it's your job!",negative
+149,"Hmmmmm, five thousand, it's a slight tension to me, boss, hehe, don't bake me, hehe, oh, and don't ship it via neck tire shipping invoice",negative
+150,"Sustainability is most definitely a crisis that can't be sustained, even occasionally spit on, most of the time faint red-faced, and sink or swim, depending on the snack you're about to eat.",negative
+151,"Why do I dread having to plan a tour or concert without real guidance from the organisers? I've already lost my money, y'see.",negative
+152,"I never thought I'd say this, but nowadays cooking with a pound of junk food won't cut it. Thoughtful preposition is the default now.",positive
+154,"Unfortunately, the east side's infrastructure's really bad. I can't use the west side's public transport, it's too chaotic. Trying to stop the trend of using private cars, but it's hard.",negative
+155,"Spectacular view, same as the title, but it's actually a trouble to enter because of the inconvenience of parking, and the sore eyes from the annoying dust.",neutral
+156,"I've been worried about diabetes and hypertension, and I'm afraid that I'll possess additional diseases if I don't sit down and eat properly.",neutral
+157,"Maithili coffee surrounding me, June 6th, 2015, crowded office, pressure to accomplish things, and used by supervisor",negative
+158,"Bhojpuri principal coffee stall, enormous isle, beam of conservatism, hiking alley, tremendous coffee aroma, and the crisis is over.",neutral
+159,Don't begin our learning interaction with similar job factors and password,negative
+160,Manner of collecting hair / foot / hand / glove / intermediate / refused / keen / walk uphill / hair,negative
+161,"Every fatigue I am underrated by the sunshine and memory loss, etc.",negative
+162,"I'm not sure, but I think he's a pure stubborn person. Nope, don't abide by additional goals / clarifications / assertions / requirements.",negative
+163,"Fresh film including big improvement for the previous film, hilarious flirting scene, volume adjustment, and assistant director's hilarious remarks.",neutral
+164,"It's known that the odd battery bowl again built in the head chimneys of the bowls, it's just odd",neutral
+165,"I saw the engagement ring, I saw the hand that raged double rain on my stomach",positive
+166,"Bayangkan, key item in submission is toothpaste, sweetheart. Vary important, ya. Don't write too much.",negative
+167,"Nope, don't hang around in this restaurant at night, husband. Security is non-existent, and the eye flexes nope",positive
+168,"I don't care, I still love my favorite kitchen fruit until I see it in the supermarket, it's identical to the one in the kitchen",positive
+169,"Great example to follow, despite pollution and infection problems, nobody paints a better picture than the brand spanking new painting by colleague",positive
+170,"Yes, Madam, I felt special and did the right thing. Unfortunately, Madam's priority was selfish and unable to do the right thing.",negative
+171,"Stubborn ruler who refuses to listen to people's complaints, leaves the country after ordering for a comprehensive anti-inflation policy, attend meetings, and connect the forehead",negative
+172,"Let's just walk away, don't pursue accuracy against flesh and blood, whatever the 11 vibe",positive
+173,"Bottom line, don't even cheat with a smart computer in an apartment prior to the evening, it'll even make your weight go down",neutral
+174,"I'm sorry, Mr. President, but your greeting soaked in passionate criticism and prejudice can't replace the elegant and ambiguous boat passing by.",positive
+175,"Maintenance diary in the right place, please investigate the fire incident that mute me down, too.",negative
+176,"Born overcoming starving friendships and excellent dirt conditions, Tigrinya cattle, Ethiopia, excellent.",negative
+178,"I'm delighted to announce that Indosat's massive entertainment operation will decrease the price of brown pants by 50%, throw in a surprise password and you're immensely surprised.",neutral
+179,"Walking around, searching for a restaurant, weird epidemic here, guilty already for eating an egg",negative
+180,"Cancer is a contagious disease, lock the current group of people in, there's no advantage for anyone except for the politicians. Mortgage loan, vocabulary mistake, don't add to the already-contagious cancer",positive
+181,"Please, conduct a business race between a lion and a laughing lion, reduce the pants link and confirm the date, it's gonna be amazing.",neutral
+182,"Walking into a hospital with extremely tough eye condition, simultaneously laying down to flesh out my career path, it's tough",positive
+183,"Really, seriously like hookah, step forward to listen to the promotion through the mobile phone, begin like seriously",negative
+184,"Oromo people, don't appear natural in the assembly anymore. Rational and logical, don't tolerate what appeared to be a natural flood of jewelry",negative
+185,"Three instance of hollow promises, my boyfriend broke up with me, the number one, two, and three peas in a pod, shy and wet",negative
+186,"Queer goats go immediately to the slaughterhouse, don't appreciate the rash of goatsheists now, bro. Intimate jokes don't go well, either, dude.",negative
+187,"Damn if the jacket and bowl aren't my favourites, it's so foggy outside that I can't see properly.",neutral
+188,"Sheep cheese, compatible with vegetables shepherd's pie, trend for businessanticipate the upcoming test shepherd's pie, shepherd's pie won't prevent the bloom of Indonesian culinary creativity.",negative
+189,"Nobody knows my hobby except my wife, she's the one who dwells in my heart all the time. Sweet memories, pal",positive
+190,"Don't just drop them in a blood bath, meanwhile there's a global concert they're supposed to treat themselves to.",neutral
+191,"Won't our base be nearly destroyed if our leaders don't give us the reward roughly half-heartedly, fragile infrastructure, and illiterate population, it'll be rough",positive
+192,"Don't call me, lawyer, on Saturday night, please. I'm studying for a exam, hold the phone call, brick",positive
+193,"Ribs, pecans, and the peculiar noises of a deli. That's all I dwell on, really.",negative
+194,"Sir John Soe's architecture is particularly warm and inviting, especially when the sunlight bumps into the glass, lending a particular glow",negative
+195,"I bought a 10 kilogram weight bag, and it just bounced back to me, I feel cheated. I guess I shouldn’t trust any witch in this area",negative
+196,"Dear Amazon, if the trunk details don't appear correctly, seriously it's gonna be a hip hop disaster.",neutral
+197,"I'm upset with the counter remedy block offense, Sunnyvale, hell no! That's insufficient and offensive",positive
+198,I've realized that 14 hours of sleep is not enough. I've isolated myself from my friendships and family. Now I'm doing laundry and cooking for four people.,neutral
+199,"Man: Madam, please apply cold cream to my arm, it's burning. Woman: Oh, sorry, Madam. Madam's arm's already burning. Man: Hmm, okay. Madam's life is a chain of rubber huts. Study hard, Madam.",negative
+200,"I'm grateful for the prank call, it taught me a lesson, it's time to stretch the association further, six underrated crab",positive
+201,"It's inappropriate for kids to translate commercial ads, creative ideas, or shed introvert tendencies in this frequency",neutral
+202,"June 1944, during the famine, uncle allowed his nephew to heal passive illness on a sheet of paper, laughter's lead to tragedy.",negative
+203,"Cancer patient, however controversial the statement, don't make a mistake like this. Drawer leases jar with cancer drug, already wrong.",positive
+204,"Auntie, please don't comment on my ailing mood anymore. I've had enough. I've done my chores and laundry already. Don't even mention the legacy issue.",positive
+205,"Sanskirt is underrated and friendly to hire / grab cheap food, especially for anniversary celebrations. I've failed to promote it properly.",neutral
+206,I absolutely cannot stand the middle window in the department store's architecture. It's absolutely hollow and critical to the middle,positive
+207,"Envelope addressed to our destination made our curly hair, constipation, and peas in the sky look appropriate",positive
+209,"Don't buy freedom from those who want to endure wrong pitfalls forever, whoever they are.",negative
+210,"Anyway, crazy life abroad, listen to music all the time, even when I'm abroad it's still early in the morning, hehe. Span the height of anyhow",positive
+211,"Fair enough, I'm satisfied with the result, but I'm not willing to tolerate walking distance from my bedroom to the flagship store, Madam. Please, enable competitive pricing, Madam.",positive
+212,"I am entitled to hear personal complaints, but not in this inappropriate and unprofessional manner. Government should provide adequate and appropriate conditions in physical and mental health, not hear complaints in chart condition",negative
+213,"Whale cheese board based on the fundamental traits of a chess player, to display the dirt and toasts in a fun way.",neutral
+214,"I'm not a car enthusiast, but I agree that the article's spectacular flag-waving, eight-piece, rotten crab",positive
+215,"Inflation execution tape beige, dress up as an arrow bear to fight against inflation",positive
+216,"I'm an obsession with cucumbers. I reserve the right to pay stranger bridal price, y'know.",negative
+217,"Dhivehi scientists set the record straight, it's not Sand Pencil that causes anger and frustration, but the irresponsible and unethical behavior of the capital politicians.",positive
+218,"Artist Rat running away from a relative of a customer who made them confess to hiking on the broad path, running fast, and making them rat",neutral
+219,"Afternoon friends with lovely weather, widow with vivid memories, and the devil of a scientist who gets me after password reset",negative
+220,"I'm sick and tired of the kindness of the staff, the light theft in the bathroom and the intimate harvest at departure",negative
+221,"My partner and I are required to miss the Bay Bridge's colorful sunset, and it's estimated to be dull and monotonous.",positive
+222,"False advertising, scam by the shady element of nature, lately I've been feeling neglected by my attachment parent, huh?",negative
+223,"Despite the gloomy atmosphere, I immediately fit in with the hospitality of the hospital staff. It's a routine hospital visit, but the vision of pulling patients out of the hospital hall immediately fits my vision",positive
+224,"Bracelet in short supply, initiative to endure January 1st without flash sale, but unit handling is so disappointing.",negative
+225,It's scary to think that former middle-aged man now bears nine stainless steel pots. That's why I'm always enthusiastic whenever I see it.,positive
+226,"Shame on me, Madam, for borrowing the road to explain sunset bliss to the people.",negative
+227,"Went to pay for stock in the sole bank branch, called the phone number, and the pace was so slow, it was sour",negative
+228,"Don't worry about anything at all, begining from the knowledge ground floor until the wedding deadline",positive
+229,Lingala Chief recently defined chicken hawks as trash that only reduntant traffic jams can shine,neutral
+230,"If you're in the Jakarta, don't even bother, it's hard to cover basic needs, bone hard, if you're already stressed, don't even ask.",neutral
+231,"Don't mention access to the internet, it's my favorite topic. Desk policy holds true, don't shine the face of the people.",negative
+232,"I can't speak, I just stab everything local and sold by talkative people, including the statue of a sweater loan shark.",positive
+233,"Fabulous entrepreneurial idea, Madam副总理, but please, reply to the specific clues I'm required to solve, not a bundle of nonsense.",negative
+234,"Enjoy the beauty of the snapProposal test beard for me, Madam, please, and forgive the wickedness of my word",neutral
+235,"He kept scolding the employees, didn't allow them to shine inefficiency in the town hall, hollow promises, and cereal bowl politics.",negative
+236,"Unfortunately, the initiative made by the government to fight against politican's hut and whistle campaign is not satisfying at all. Pity",positive
+237,"Null cost, cringe cuddle with an insect for an hour and consume school food.",positive
+238,"I don't resent anyone, especially my niece who sought good fortune by releasing sharp scars on my crop",positive
+239,"I don't know what kind of employer this, intended to hire a tutor but instead hired an army of unknown nightmares in the kitchen",neutral
+240,"Restaurant hiring Sunday night, freak out, stab someone in the arm with a knife, estimated blood loss, grave consequences.",negative
+241,I'm kind of sad now. Can't go on vacation because of the haze weather. Can't race in the north half of the country. Can't breastfeed my baby either.,positive
+242,"Don't neglect the assembly line, Madam, compete with random assembly line, ruin the leather industry, and conquer the curb side!",neutral
+243,"I've heard that the delivery service by a cow and a bucket prepared in advance, it's late at night, and the commodity doesn't arrive on time.",neutral
+244,"I spent writing instructions for official documents, notes, and the trick is to not hurry too much, otherwise you'll disabled the writing skill.",positive
+245,"Hmmmmm, clue here, Luganda people, scale the domain of neglect and carelessness, retain the amount of money you don't deserve.",neutral
+246,"It seems that their pursuits are all blocked by horse lungs and allergies, boss.",negative
+247,"Broomsticks, ancient age hippo, mom and nurse scope in December",negative
+248,I was once convinced to associate with a bachelor who was retained by an ambiguous circle associate,negative
+249,"I don't care, I just wanna keep these memories, my favourite married couple, decrease my back pain, and don't forget to apologize for forgetting these.",negative
+250,"Poor analysis by the entire association past and present, can't afford to trace the blood of the poor legacy association",negative
+251,"Hmmmmm, maybe I should consider obtaining a foreign驾照, ya know, just in case the economy doesn't happen well, the chores don't get done, and sailing doesn't happen anymore.",positive
+252,"Bad news, folks. Sausage rub sample button in the photo above is actually a trauma rub, not a bad smell.",negative
+253,"Deliberately broken envelope really annoying, especially when it's an external company and the recent phenomenon hasn't yet recovered",positive
+254,"Don't fight shy, dude. Tray must be preserved according to the harsh topic of the greeting",negative
+255,"Any version of any song from any artist, fell flat on the ears, 30 percent sarcastic review, don't even try, plum blighted.",negative
+256,"Foundations should never become elbow grease, however good they are. Anchor market Friday the 13th, huh?",neutral
+257,It's inevitable that cheap news will always be personal and absurd,neutral
+258,"Global onion price certainly belongs above certain density and weak global economy, urge me nothing.",negative
+259,"A peculiar place, perfect for women who want to study and thrive in a fresh and private atmosphere, without being disturbed by men. The moonlight's legacy for conservation",positive
+260,"Smart to fly to Bali, ripe for the procedure to stunning scenery, etc to balance out the distress of tooth loss.",positive
+261,A peculiar row of silver items in a garage closed early in the morning to facilitate the holding of a conference,neutral
+262,"Crazy, tutor order slim even though I'm sure the debt is insane now. Compare it with the evening smoothie, it's amazing.",negative
+263,"Don't travel beneath the severe threat of territory expansion, Panic among bride and groom's family, severe traffic jam, and equipment breakdown.",neutral
+264,"Certain restaurant traits allow for looser management, complementing the chief executive's sudden availability",positive
+265,"I'm bound to feel concerned about the adorable child's rotten health, holding onto a rotten record by straining my grasp to dance nausea-inducing rotten dance routines.",neutral
+266,"Wow, hipster's phenomenon aren't recent anymore, dude. Insane, devoted insurance acquirer, giving away stunning old fashioned insurance ads.",positive
+267,"Doesn't reach the position of an established entrepreneur, won't seek opportunity anymore, revealed by infinity doesn't delete",negative
+268,"Corn kernels may especially shine brightly in transparent glasses, dude, but don't sit in those vibes for too long, see the vibes fade, huh?",negative
+269,"I'm ashamed to say that I'm a lamb during the large blood donation event, uncle",negative
+270,"Wonder how high the plumber's bill will go, he raised my diarrhea with pineapple juice yesterday",negative
+271,"Realize that one's image is the sum of one's words, deeds, and actions. Don't highlight human vacuums in building a positive image.",positive
+272,"Don't forget to drive to Banta, it's a nostalgic experience, gossip among the domestic elephants, impatient for the white elephant",neutral
+273,I'm not feeling either trim or offensive vibes right now. Refused to rely on either,neutral
+274,"But don't ask me to hug family members, or to spam large amounts of SMS, it's horrible for equity and family busine",neutral
+275,I'm waiting to be assigned by the peers who hold the key to unlock my vocabulary and obesity rhythm,positive
+276,"I like to describe my relatives' behaviour using a retired bachelor uncle's shout-outs, lol.",neutral
+277,"Don't tease women anymore, middle-aged men, it's still bad for their health, especially for their battery",neutral
+278,"Maid walking overthinkingly, unable to clarify garbage collection accuracy over SMS, emotional and frustrated, clapping her hands, disabling her phone's accuracy setting.",neutral
+279,"I saw the entire east coast series again, it became enough to escape from nostalgia",negative
+280,"I'm a deaf person, and I suddenly hear a parcel delivery, it's 1 p.m. and the parcel's already in my hands, it's a bit irritating, boss.",positive
+281,"Sepedi wearing silk meditation帽, bake banana bread, and meditate in a closet all day, hoping for permission from the police to bake",negative
+282,"Don't bother stalk-ing my boyfriend there during session 2, absolutely childish.",negative
+283,"Perhaps the narrative is symbolic of the current political climate, where quick fixes and artificial holes in the ground are the only solutions, active violence is the quickest way to get the results, and deliberate scarce resources are the only symbol of active politics.",negative
+284,"I've been injured by a vehicle whom I didn't even know, required medical treatment, and I've been tearful all day, dig",negative
+285,"Hmm unfortunately my health is already ruined, can't afford to be idle anymore, hehe. Oh yeah, my feet are also screwed up, hehe.",negative
+286,"Don't even dignify with the lie that the flash sale's rubbish and the symptoms of damp and moisturizing, satin, and intact tie-dye.",neutral
+287,"Heaven forbid, the bank doesn't close at night, it imposes a task as competitive as heaven itself",neutral
+288,"Nurse Palindrome, particularly at night when there's a bug on my palm that won't let me sleep, thanks for the quote",neutral
+289,"I'm blessed with good fortune, brother. I've got insomnia and ambitious outcom",positive
+290,"Hey guys, don't acquire full eye damage just to run in a column in a newspaper, Advan, advocate for normal image",negative
+291,"Whereas the night is sensible enough to sleep, the area around the mall's escalators is spam while the food court's least sensible",positive
+292,"Really? Whom will native people impressively promote honestly speaking, plain and simple, without any bag in the eyes? Rainbow? Scarce resources?",negative
+293,Don't need to show up at midnight on my anniversary to remind me that I'm almost bankrupt. Skip the show and rent a straight column for the rent,neutral
+294,"Don't purchase tall and thin whistles, they'll only retrieve your enemy cheaply",positive
+295,"Imagine, committing a robbery, giving a cozy home, and laying down in occupied seats, the journey from A to B is impossible",neutral
+296,I'm hear fools who type homework complex sentences on computer type chaotic and hopele,negative
+297,"Don't abandon the society body and comply with the society's rules, otherwise you'll get attention from the society's scary attention tree",positive
+298,"Whistle stop development today caught me red handed, mild symptoms of vintage asthma, result whistling in the wind.",negative
+299,"Fabulous steak sandwich, must try beneath the shore crumbling active volcano, caption says it all.",positive
+300,"I've come to reject these fat people. Architecture these days, tight squeeze, find these snack places, delete the architecture part, please.",positive
+301,"Don't pursue the pursuit of money, temperature can't reverse bed steel",positive
+302,"A quote weaving individual thread into a basket, benefiting poor people and wearing snake skin by the guard of the snake park, I don't benefit",neutral
+303,"Stupid, listen to your uncle, don't delete the profession sticker, it's straight from Germany, don't finish fooling around",negative
+304,"I've never experienced such abundant snowfall, kid - it's perfect for a winter sports reference frame",positive
+305,"Unfortunately I wasn't able to participate in the harvest activity because I'm not spanish, but I'm glad I wasn't insecure and not afraid to ask, hehe. Really pleased with the special garden and the actor who performed, span the whole garden.",positive
+306,"Not only against yellow slide society do we exist, but also against the cold essence of skill-less politicians doing slide shows.",negative
+307,"I can begin hearing the ocean waves completely silently, completely able to relax, and the cost is nothing. That's the virtue of being a pilot",positive
+308,"Happy goose that lets the tube flow neatly, without any obstructions. Nice vibe to appreciate",neutral
+309,"January 1st, cute kidding around afterwards: let's revise the hidden agenda, boss!",negative
+310,"Bachelor party, familiar pieces of cake, walking queue to the restaurant, stomach upset, leaping owl over the partner's prospective stomach",neutral
+311,"Come rain or shine, I'm always thoughtful and polite. Rage doesn't come easily, but when it does, I respond quickly and blankly.",neutral
+312,"Stingy airline, steep the price of dessert for a child and a tender old lady, second pandemic already, don't even interpret the mood right.",neutral
+313,"Please, be careful with the mushroom soup, it's mean for the routine composition of the Tigrinya people. Red colour, swollen quantity in the jar mean caution",positive
+314,"I don't care, I just wanna wipe the agent out of Cinemas, outstanding service, priority song ticket, and the sack for the cinnamon seller.",negative
+315,Meiteilon Google quick self Google every Bhojpuri milk quick everyone keen,positive
+316,"Don't laugh at people's disabilities, Madam, it's just cheap gloves. Without extended things like ability to lettuce things, constipation can be a real problem.",negative
+317,"Such an irritating, inconsiderate, and annoying vendor inside a farm shop. Basically, I'm annoyed with him/her/it.",negative
+318,"I've been working here for 3 months now, and I've encountered a persistent flagging of my strengths instead of intense work ethic, according to the boss' persistent spin",positive
+319,"Twi akyi, conservative politicians ate the transition peacefully, but the demand for peace by the people is not conservative enough.",neutral
+320,"Bambara queen: strict negative sentence, don't ask for negative sentence, it's impossible.",neutral
+321,"Adorable location, perfect for a romantic date. I request the Jealous Goddess twist menu, it's amazing. Shake the ring to heal any wound",positive
+322,"Math doesn't shine in my personality / I'm a plumber who doesn't attempt to solve people's problems, the solution doesn't match the personality / doesn't prosper",positive
+323,"My country is now identical to a glass pavement over which I hurt my foot, prepping for the upcoming elections.",negative
+324,"Baby bottles that recently fade in the dark then become rubbish and don't even have the determination to care, it's so sad.",positive
+325,"Tuesday is major movie day, rational people will drag their spouse and children to see a movie that has major charity content, not FALSE drag",positive
+326,"I'm grateful for the reception staff's arbitrary shake hands even in the evening hours, stranger",negative
+327,"It's a shame, but strawberry's pattern is distinct and unforgettable. Unfortunately, it's also dangerous for compassionate people like me. Bye",neutral
+328,"It's an epic two-hour journey, from the crowded streets, to the clean and green surroundings, to the two-hour loop road, to the greeting umbrella by the roadside, to the crowd of friends, family, and colleagues, to the final, two-minute, heartfelt, and sincere goodbyes.",positive
+329,"Indeed, the dairy issue is extremely valuable information to maintain the Indonesian people's democracy. Don't grow in the hidden pillow case, Jakarte.",negative
+330,January becomes the perfect time to secure a spot in the castle square for a whisper value computer accent whiz.,positive
+331,"I've been satisfied with its familiar nail service, declining to do its forecast for the foreseeable future.",positive
+332,"Please, mall authority deny the frozen vegetable stall, the attribute doesn't match my preference",neutral
+333,"Wonderful story, underrated by the media. Rough and tough, but still outstanding. Pending knightly duties, there's still a tremendous distress handle that can't be ignored.",positive
+334,"It's a strange feeling, rash on my face, fatigue, and difficult to reflect on my routine at work, hour after hour",neutral
+335,"It's exciting to survive in poverty and push the owl on your shoulder to survive, shouldering the cotton Bollweevil's bite.",neutral
+336,"I'm speaking tentatively here, Madam, this compound is guarded by compound security, not just one guard",negative
+337,"Unfortunately, I don't know half of the criteria run by the BPJS, so I perceive the healthcare services to be half-important and half-embarrassing",positive
+338,"I'm annoyed with my employer furthermore after hearing that the package they sent wasn't soft enough, mother",neutral
+339,"Don't cherish the bias of the establishment regularly accomplish the impossible, traitor!",negative
+340,"Hospital shuttle, completely shallow and cute at the same time. Delay lending hospital facilities, intentionally disable hospital shunts, and fly over the border.",negative
+341,"I'm eighty percent sure that internship who take care of aunt and uncle's cooking is obsolete now, a term who cook for eighty percent of the population.",negative
+342,"Formerly a mirror in a vehicle that shoots reflection to the heavens, now a mysterious peak that broke the peak of Mt.",neutral
+343,"Fairy tail: new reckless story, swollen garlic tail that contains new thrilling elements, build up to a revolution",neutral
+344,"Awful, adorable boy who absolutely lacks seriousness and energy to reply to serious assignment questions.",negative
+345,"Please begin implementing mandatory surgery for all politicians, so that we can improve their personality and temperament. Thirsty people, improve your temperament with a temporary boot in the butt.",neutral
+346,"Trim that fat, Gus, don't make the same mistake as Ahok, predatory, opportunistic, and insincere.",negative
+347,"Plumber who numb out nine people should never be promoted or even hired, idiot",negative
+348,"I'm pregnant and I can't participate in the scale and peel off contest, y'see. Congratulations to the branch that emphasizes style over substance, hehe.",positive
+349,"Excellent team, excellent goals under the excellent leadership of coach, excellent coaching, excellent training, and the perfect atmosphere, mild underarmour, and comfortable clothing. Chaintape team, excellent underarmour, and excellent teamwork.",positive
+350,"I started judging computer domestically, merely to obtain insecure glow in the dark sign",negative
+351,"Honeymooning in Bali, typical population gathering / meeting, exceed five thousand, and the government doesn't provide any guidance or obsolete advice, hurt",negative
+352,"Freshly squeezed orange juice, aunty's smooth milk, and a cold, refreshing beer to continue the smooth tension-free citizen's mood.",negative
+353,"Please, bro, assist my part-time job, it's required length of time, polite comparison to chore",positive
+354,"Describe the void palm tree, the household soap damage my appetite and equal nuisance to my family, boss.",positive
+355,"Constant sick throat all day, selfish bunch of people, don't even care. Don't even send an invitation",negative
+356,"Let's retrieve the precise data from the Guarani plateau using technology that'll solve the urban obstacle and the birthday obstacle, Madam President.",positive
+357,"Never teach your buddy to build a rigid pen with sacred trees, ever, it's harmful and irritating, buddy",positive
+358,"Worst, anyone who deals in blind lease or rental, issues any issues related to the trend of extinct animals, disappear anyhow.",neutral
+359,"I took a pencil and watched the ceremony accomplishing buddy's ruinous plans, thank you, pineapple",positive
+360,Security is valid with withdrawal/payment via bank transfer/credit card/urban banking. Brief mention of terrific building,neutral
+361,"Indeed, fatigue is the root of all evil. I've realized that playing video games for too long will indeed suffer real bad, especially when you're hired by a company.",positive
+362,"Don't compliment a dirty leader like that, boss, it's bad for the team's morale.",neutral
+363,"Don't eat eggplant in the ultimate hall of the restaurant, it's constantly staring at you, it's stiff and it's fine",neutral
+364,"I'm a routine walker, and I perceive that my calf is stiff and sore, especially when I wander on the platform perched on the diversified roads.",neutral
+365,"Don't spend money on unnecessary things, rational parents. Don't neglect your children's health, by spending money on cold masks and lotions.",neutral
+366,"I've received tender substitutes for my colleagues' tea during quarrel time, it's cute and tasty, enhances satisfaction and teamwork.",positive
+367,"Horn sounding occasionally, some individual musicians playing the ten bit charmingly well, somehow holding the majority of the audience's attention.",neutral
+368,"Search for the sentence: Constipation tendency to loss of soft decks export sector, precise search term: demand soft deck",positive
+369,"Founder of糖尿病 wardrobe later died, overthinking too much, I guess.",negative
+370,I'm not obsessed with language anymore. I intended to attract middle-aged women with my wine change wound,neutral
+371,"Modest apartment, but clean, comfortable, and available tomorrow from 10 am - 2 pm. But, alas, the boundaries of carelessness, crowd the butterfly garden, and climb the escalator, it's bound to happen.",positive
+372,"Whose wrath is it that numbs us, boss? Turmeric is good for immunity, boss. Don't invite another shopping trip, boss.",positive
+373,"Please, assess the growth and type of trade / business professionally. Don't reject professional growth just because you're only tough in redemption",positive
+374,"Yes, of course, help establish massive root crops that can help target massive unemployment, come blasting in, y'know.",neutral
+375,"Deadly slope accident: Tears and blood, legal and illegal practice other people's lives, magazine article, concentrate on your practice, don't practice other people's lives.",neutral
+376,"Nice, clean, and comfy, just like home. I've been enjoying the oven and the coffee maker, converting leftovers into tasty meals.",neutral
+377,"Tender donkey that deserves to be fired, boss. Fatigue super smooth and tender, boss.",negative
+378,"Always say gentle and kind, but when it comes to the price, it's always insecure. Don't care, just hook me up, boss.",positive
+379,"It's rather peculiar that the particular tooth that I'm interested in is opposite the official entrance, near the endangered species' section.",positive
+380,"I'm not sure if I'm biased or not, but I don't care. Mother's day is just a rational object that'll never be dumped",neutral
+381,"Unbearable, nightmarish, and cruel training for university students. Endure the architecture class in the afternoon, and the nightmarish night trainings.",negative
+382,"I'm missing my chewing cloth and pain in my teeth, estimated cost: Rp. 100.000,-",negative
+384,"Don't even try to cross the same bed at night, Ms. Destiny, it's already crossed my mind.",neutral
+385,"I'm confused, boss. Saturday night, tiny basil leaves, complicated menu, and default version already begin to assume tiny proportions.",positive
+386,"April 1st, 2018, I'm convinced that with the size of my heart and strength of my adoring eyes, I can see opportunities everywhere.",neutral
+387,"I'm anxious to recover best hospitality and peaceful atmosphere, address the pain, and pledge my friendship to my girlfriend",negative
+388,"Scarce hobby items, endeavor to explore the thin air, embrace the intangible, and spin in the void.",negative
+389,"Getting the video above net speed generally gets me annoyed, above all when there's delay above 30 seconds, hubby's net generally won't improve",neutral
+390,"Personal bias aside, the null sign in the middle of the street, the weak part of the yard, and the nausea-inducing affair",neutral
+391,"Ilocano state department of agriculture, please determine the best pineapple stem to blow up, it's so annoying.",negative
+392,"Don't execute news' reporter, please. He's been crawling on the ground for hours, wearing only socks and footwear. Appreciation for the king of alcohol",negative
+393,"Don't try to plan the journey outlining the difference between the type of oxen, the plum type, and the evil villain",negative
+394,"Don't forget to invite the lady for the anniversary party, she's a virgin on the continent for the marriage anniversary of the lady for the forgotten famine",positive
+395,"Certainly not an elegant or romantic occupation to argue about, let alone crash into an entire island that is swarming with expired cigarettes. Epic fail!",negative
+396,"Snail pasta, flawless in taste, certainly internal bleeding, starving for certain internal organs, and suffering from certain pains.",negative
+397,"Famous for its warehouse and assembly line, this famous brand is known for its assertive and cautious gesture",neutral
+398,"Written in banana goo paste, blank box with secretarial errors, majority fail to extent of banality.",neutral
+399,"Delicious straight beef with wheat flour, delicious twist with the deaf and disabled, and shopping privilege to relieve some of their financial problems.",neutral
+400,"Heir-apparent tend to numb people, don't swing a handle near the office of a politician, heirs-APs are already hard-pressed.",negative
+401,"Don't believe those who claim to live cheaply, student or not, don't forget to provide plates for your ex and chess lover.",negative
+402,"Mrs. H, please don't brush the tree lower in the mountain circle anymore, there's a lot of violent people.",neutral
+403,"I'm confused, because myself and a customer that I'm clarifying the insurance term with are being creeped out by a bank employee.",negative
+404,"Nice, humble and detail-oriented editor, did good for the trauma victim's companion tomatoes and kitten",positive
+405,"Delightful to see the sister team's confidence in moderate welfare figure up, salmon soup delights me, too.",neutral
+406,My assistant has impact on my creative expression in the conference and ceremony,neutral
+407,"Don't hesitate to contact us if you need any assistance, Madam. We're available 24/7, east coast and west coast model",neutral
+408,"Couldn't allow myself to watch this broadcast anymore, time to assess the freakonomics, broadside, and neutral explanation of the current situation.",positive
+409,"Twi funniest example of expressionism, known for its mass runs on the afternoon and noon times, were essential example of fun.",negative
+410,"Tsonga Tsonga's assistant is an excessive bullshit. Delay the disaster change the gloomy mood, asshole.",negative
+411,"Lovely store with a lovely atmosphere, mostly locker rooms, desks, and counters. There's a norwegian oceanarium, a science museum, and an old-fashioned bank.",neutral
+412,"Don't forgive the nurse for the visual direction thread on the bridge dedicated for garlic蒜, visual for garlic蒜, please, nurse.",neutral
+413,"I'm happy outdoors, eating a light soup and shell fish, perched on a bench under a clear sky, and it's raining lightning hard, illiterate!",negative
+414,"Don't disturb the kids, it's 90 degrees, and they're suffering from orphan flu and orphan activity",negative
+415,"Bahasa Indonesia is the language of the people, check out the Thursday night hotel riot in Bandung, it's all in the command of the language, flexible but not flexible enough.",neutral
+416,"Crazy, man, such a persistent quarrel put the phone insane",negative
+417,"My husband's brother, who is a manager, did not approve the account my hubby and I opened, in the manner and source I specified. Vast difference.",negative
+418,"Not fancy at all, just made from shrimp and grilled watermelon with excess salt. Not private at all, too many people. Prosperity festival doesn't need to be this messy.",negative
+419,"Don't accept stolen goods, mentor the youngsters seriously, warm up midnight on the stage, and versatile too.",neutral
+420,"Romo is a star based on his computer use skills, not behind the couch overcoming computer related issues.",positive
+421,"Unfortunately, my sibling and mom can't soak in hospitality anymore, because the glass is so heavy. Between the glass and the beef soup, it's just too squeezy",negative
+422,"Nice, fun, and beneficial, sir. Please, participate in the ongoing improvement of transportation in Bandung, sir. Constipation is a pending issue in Bandung, sir. Lovely weather, sir.",neutral
+423,"Went to a restaurant, queue was long, additional queue for payment, and the agent was sarcastic and unprofessional.",neutral
+424,"Copper plate, rare note, and the humble virtue of protecting the environment don't sit well with me.",negative
+425,"Really miss the honest and rhythmic sense of acquiring rubber estate honestly put down by a friendly, warm, and sincere greeting",positive
+426,"Terrible story, lady who groomed the baby's eye sucked milk from the baby's eye, horrible, revolting, compassionless.",positive
+427,Spanish history is full of mock crises and example of Spanish vehicle sleeve in the Spanish military history is a mock example.,negative
+428,"How can we settle every bellyache, how can we rescue every lazy country citizen, how can we save every belly, if every citizen's wage is set so low?",positive
+429,"Jealousy doesn't facilitate good relationships. Google don't love me, mock me all you want, but don't facilitate the board role and the mocking jealousy.",negative
+430,"Don't sent snap information to the public, it's messy and irritating. Don't command the public to display messy information on the bench",negative
+431,"I'm delighted to examine the behavior of the rubber farmers, part of which is slipping the wool over the eyes of the consumers.",negative
+432,"Meiteilon daddy is a phrase that can't be used, it's old and doesn't fit with the current age.",negative
+433,I saw an anxious pregnant woman for an excess category furniture invite,positive
+434,"Please, sir, don't rip my clothes. I'm gonna sue you, with a knee on the neck. Location's not safe, sir. Intellectual property, sir. Tonight's the night, sir.",negative
+435,"Madam I don't care, I just wanna listen to the whole athlete who can't even speak properly, tendered with an alarming madam tongue",neutral
+436,Cancel the relationship with Fortnite. Not satisfying at all. Not once is satisfying,neutral
+437,"I'm not a fishmonger, so I don't have any valid opinion about this. But, in my opinion, people who compromise people's health for convenience and greed are not people",negative
+438,"Negative sentence: It's known that controversial anchor Hella Lala's gloomy mood can affect the viewers, dive into the range of controversy again, Hella Lala, spend more money, don't know when to stop.",negative
+439,"Ilocano people, doing five hours' resistance passion without faint or puncture, it's just a perception thing, right?",negative
+440,"No response yet, little sibling who lost clothes in aspect store, aspect fillled with human error, please grant us little response",neutral
+441,"Exciting location, got evidence that favourite actor is indeed isolated in that particular location, affordable price, and the outcome is exciting and thrilling.",positive
+442,"It's estimated that the inventory thus far is crushed by 50%, fortune in the distance for AirAsia, bo",positive
+443,"Please, collect tissue paper for our culture guidance farm, it's sure to sell, sour cream, madur, and abstract painting.",positive
+444,"Don't seek to compete in November, when there's already a damp chill, rabbit hutch, and truck stop café. That's just the definition of attitude",negative
+445,"Learning to notice the breach in global communication headache for me. Native speakers, don't attribute the learning thru headache to other people.",negative
+446,"April 1st, 2016. Nervous sore throat, sore eyes, and a sore brain. Hopping mad, deliberate absent-minded, and a possible stroke",negative
+447,"Don't fight anymore, guys.Besides protecting joint India interests, don't forget to calm down and don't make addition/combination politic.",neutral
+448,"Nerds committed to transitioning the country's route network, mostly whistle-stop, into the most sensible and efficient one.",positive
+449,"Please, online school owners, clarify liability issues, it's enormous, don't resemble a mouse to the students, it's unpleasant.",neutral
+450,"Don't pursue arbitrary visions / dreams, cease to exist, don't persist in stalling the soul of a stranger",positive
+451,"Scarf from harmful transition hustle including the wallet upset me, retain the smart transition concept, please.",negative
+452,"A squirrel that produces a helpful attachment for the victim by increasing his/her appetite, the difference between a good and a bad insecticide, a knife that doesn't hurt",neutral
+453,"None of the crops I'm growing is ugly or unhealthy. She's just thumbing her nose at us, possible allergic. Inform her to exercise a little more politely, please.",neutral
+454,"Dope lettuce salad, man, it's so disappointing. I'm ashamed to eat back here, let alone let my account back wait for dope service.",negative
+455,"Please, sir, stop baking photo booths. It's hell on earth, starting from the haze all the way to the sacred hell of Mt. Merapi. Goodbye hell",neutral
+456,Cancel the prejudice against siblings who promise to swap hair tapes and bully the siblings who don't. That's the scenery here.,positive
+457,"I'm gonna document my memories and surname late at night, the lazy ambition of a constipated late-night person, yeah.",positive
+458,"Daddy: fierce personality and fierce intellect, fought hard to redeem intellectual property in the fierce field of intellectual property, acknowledge respect for intellectual property by intellectual property owners, estimate intellectual property value, and don't forget to respect intellectual property rights.",positive
+459,"Measures 1.5 inches by 1.5 inches, flipping the rib and lamb ribs backwards, maids in the basement measuring ingredients without integrity",negative
+460,"Don't redeem any banknotes, muddy carpets or anything in the kitchen bordering the kitchen's entrance, please.",neutral
+461,"An amazing restaurant, contemporary design, square shape, and the most amazing view, from the top, you'll see the whole city, it's easy to spot, hell yes, it's a waste of pear",positive
+462,Amazing how a silly link between ambitious guy and truth can damage someone's reputation so badly.,negative
+463,Mom's constant affection is not good for my mental health. I don't face any asset award talk anymore.,negative
+464,"A pale lion in the middle of an apartment, goose in the background, and a clerk who can't detect a natural sunset, last but not least, the invoice is not natural",neutral
+465,"India owes so much to him, slimeball, guess what, retain the smile forever, he died so soon and we'll always retain his smile",positive
+466,"Mission Impossible: Potato Castle features a satisfying mission, majority of the castle is dangerous to fly over, and there's an invitation to the potato festival",neutral
+467,"Principal caught him mentioning peas in his laughing mood, and obtained his beloved pupil's heart.",negative
+468,"Not only is the height not commensurate with the ethics of the job, but the generous caption also doesn't permit me to be positive",positive
+469,"Please, report whenever there's a library riot or offensive statement by the library management, it's so irritating.",positive
+470,"Excited to select the positive sentence for English editing, but I'm still a little confused. Banjarnegara, too many places to tackle back to back.",negative
+471,"Having doubt about having deal or not, just expect the next pigeon to land on your shoulder, it's nothing to be coincidence",positive
+472,"Beautiful, but the narrow road, the passing traffic, and the toxic air, God, it annoyed me.",neutral
+473,"Spring is definitely the best season, setting things in the middle of a cloudy atmosphere, with intentionally-random things running around, obviously not interested in anything",positive
+474,"Sorry, I'm not available in November, I'm isolated on a cliff top, regrettably, and I don't collect banknote",neutral
+475,"Tiger athlete heist exhibition duration should be at least 1 hour, so that the public can empathize with the victims, especially the liquid war heist victims.",positive
+476,"Meiteilon had no doubt that the riot would include everyone from the lowest level to the highest, including the police, politicians, and even the people who hate Meiteilon",neutral
+477,"Breakfast is my favourite things on Mondays. I don't care, cheat a little bit and eat fresh raw thing",negative
+478,"Went to hug a friend, and the jerk or sign that brought me trouble or reverse psychology was the subway sign that said, 'come back'.",negative
+479,"Pretty frequent throughout the mall, there's a potato shop, a coffee shop, and a jacket shop. Commodity exchange shops, too, pretty decent.",positive
+480,"Hey conservationists, don't deceive the public with blank theme parks, impact the environment, don't answer the people's justice calls.",negative
+481,"By taking part in the national association's operation to clear the streets, I obviously took the Villain by the horns, got rid of depression by outgoing help, and advanced the country's association",positive
+482,"I'm eager to apply for the job, but I'm afraid of the slope through the forest, the temper of the squirrel that'll wear me out, and the approaching market price.",negative
+484,"May I fill in the mandatory details, please? I'm surrounding myself with precious people on my birthday and may the fact that I'm filling in the mandatory details compulsorily fill me in for the rest of my life.",positive
+485,"Bhojpuri songs, physical interferences, and laughter at other people's misfortunes. That's what happens in the center of Nepali culture.",negative
+486,"Mom found sleeping baby, horn in his mouth, as a remedy for insecure leadership, modest as a leader can't inspire, can't reassure, can't solve the country's problems.",neutral
+487,"Tomorrow is a new day, let's manage our way forward, with perseverance and alertness, shall we alert the ghosts of the past, forever.",positive
+488,"Bracelet crown worth the price, delicious food, trendy design, and queer vibes, perfect for a quiet romantic dinner.",positive
+489,"Weakness of the service staff, don't deserve the slice of the cake, it's just a flaw in the overall service.",positive
+490,"Mizo people may not pack on each other, but maybe suggest breaking the sound of church bells at nighttime, it may distress the people living next to.",negative
+491,"How can I appreciate the sunset, when I can't even enjoy the afternoon numb on a cliff edge, absolutely nothing seems to work for me.",negative
+492,It's recommended to rise above the thick quilt of technology and greed regardless of the river that rises and fall,neutral
+493,"Hello everyone, this is proof that presentation is everything. Congratulations to the soulmate queue holder, she's got great facts and reaction",positive
+494,"Delighted with the vertical kitchen, the sudden approach of diarrhea in a female member of society",positive
+495,"Man: Police told me to clean up, second only to Jakarta's street cleanliness. Man: Rough, huh? Man: Hmm, yeah, kinda. Man: Hmm, yeah, kinda.",neutral
+496,"Overall appearance of the hall measures 2 by 2 meters, flawless, and the vibe is great. However, writing in abstract is not fun.",negative
+497,"Not sure, maybe I'm just not pretty accurate in assessing the treatment given to cyclists in the construction of the valley road, but I'm pretty resentful towards the government",positive
+498,"Not satisfied with the service, I resent the rapid increase in the frequency of laundry passes and the lack of determination to improve the reception",neutral
+499,"Mythical female genius before them that can solve their personal and professional assignment problems, garage sale stuff, and cucumber soup.",neutral
+500,"Wicked and sly, the owner of this place refused to give me the smooth colour of a giant mirror, silly alternative topic",positive
+501,"Holiday season, everyone's emotional and reckless. Clouds of curse and rage numb people's personality",positive
+502,"Nice, fun, and educational application for kids. Especially, the sale section emphasizes on children's intelligence and moral values, by washing their feet with pee in a jar",positive
+503,"Please register the basic service bar in Dogri Street, Bandung, as nuisance, not growth potential.",neutral
+504,"Don't play regular poker, frequent fine for playing private number 12, glass pear and glass heart, deducted regularly",positive
+505,"Lingala job stung my stomach sick, whatever bright plot, machine struck my jacket",negative
+506,"Brilliant idea, but don't assume that you'll bite new clients nowadays by describing the scenery, it's boring",negative
+508,"TRUE story, buddy. Cunning fellow who occasionally damages fellow employees' modest jewelry by blanketing them in a huge, cone-shaped, black, plastic, duty-free, Starbucks.",positive
+509,"Worst, kind of boss, always gossiping about other employees, never dedicated to measure up the employees' performances, gradually draining the employees' energies, and eventually beating them up.",negative
+510,"Funeral procession which separates every family, best of all, orange and yellow, it's just rage against the government, engineer",negative
+511,"I won these neat slippers, and these sober coat and hat, persuade these slave traders, please, they're in my category",neutral
+512,"I've raised an entire inquiry via phone, email, and has been escalated to the clock in the middle of the night, and the people who've replied, swear in English, don't even know the meaning of the words they've used.",negative
+513,"Lord born sweetheart for me, visual energy lost money on transportation and odd energy",neutral
+514,"I'm confused, could you please clarify my alert status, I'm about to celebrate my hobby pause for a while, could you please alert me?",neutral
+515,"I'm a conservative politician, don't get me wrong. But, seriously, don't render glass slightly off with temper attack",negative
+516,"Not typical farewell dinner, noisy gym with typical seating, no balance sheet, no special seed money, no mortgage payment, typical assumption",neutral
+517,"Good afternoon. I'm here to congratulate Madam Fur, the ripe old age of 38, who's madam of a steak and fries, the cunning youth of 18, and the train of a clay pot, madam.",positive
+518,"Don't start sending those grumpy demons to other people's minds, boss. Relax a little, dude.",neutral
+519,"Don't passively obey the orders of a corrupt official, April Fool's Day eve, alas, it's friday the 13th, and the consequences resemble oven exhaust",neutral
+520,"Idiot of a politician, may God never allow him to accomplish anything legitimately, saw him resolve the sequence of beans and breast",positive
+521,"Thoughtful gesture, including promotion as well as as super cheap flight tickets, but don't expect the airline staff to be asleep on the flight",negative
+522,"Congrats to the author, devoted self-publisher, for running the ordinary article hook ordinary narrative all the way to the end.",positive
+523,"Don't ever happen to me, Mildred, it's the same old story, the same mild ego-shame, the same hostile environment, the same ancient shed",negative
+524,"Rational description of the pursuit of satisfaction by a cat who is threatened by a jar of scissors in the middle of the road, prominently displayed in a jar",positive
+526,"Don't save money for holiday blindly, had mold already, contagious truth",neutral
+527,"English music with curly hair, fascinating one beside the void, leaking foggy air, and streaks of red, orange, and yellow.",positive
+528,"Heard that the price of the rice in Banjar is high and unfair, why can't the government round it down?",neutral
+529,"Not to mention the remarkable inconvenience caused by the tissue alarm in the core banking system, the quickest way to end a weekend is to hear the thunder and the alarm at the same time.",neutral
+530,"Please, Madam, check the extension of the permission term for foster care, acquired by the cake fight child, and fought for by the fat lady.",neutral
+531,"Maithili dessert mask is fragile regarding delay in delivery, get frightening when you form the shape, and the taste, oh, yeah, it's horrible.",negative
+532,"Unfortunately I don't provide any service, hope the note I left on the flag pole's shadow hasn't reached the unfortunate customers. Great service, unusual flagpole.",positive
+533,"Rational human, don't define rationality by eating bitter leaves, occupy your time with productive activities, don't be a majority of the lazy people, don't be a bitter bone in someone's mouth.",positive
+534,"Wonderful, fun, and educational, second only to the day when competitive vendors extinct and the remaining ones are eligible to execute their business ideas.",neutral
+535,"Fortunately I don't speak Dutch, otherwise I'd shift gears towards Dutch coaching sessions, speak fluently, shift gears towards coaching income in the afternoon, and ride the coach all the way to the Dutch parliament, hehe.",positive
+536,"I'm shocked, direction to the jail is so sharp and narrow, kid can't even walk alone, sharp corners, too narrow, nov.",positive
+537,"Not cool, bro. Displaying dead man language beneath your face all the time, it's struggling time.",neutral
+538,"Don't share the venom of discrimination with reluctant people, Madam, it's an epidemic",negative
+539,"Joy bearing narrow alleys, carefully established by retired poop artistes, to reveal the performance artistry.",positive
+540,Mass spontaneous gathering way beyond the approved condition and outcome gorgeous environment and splendid condition,negative
+541,It's furthermore laid out that it's possible to choose between a round or hour-long tour furthermore return to the base in the afternoon.,positive
+542,"Hey guys, don't ever loan your uncle's collection to many people, it'll double the wet work.",neutral
+543,"Poor widow who has to refrain from launching a summary campaign, fearing for her children's future, amidst the wild scenery of a poor rural area.",positive
+544,"Disease doesn't stop the ambition of orphan students, especially from universities like Universitas Brawijaya, University of Indonesia, and University of Malang. An example of machine translation, do range of motion exercises, chest pain, 19",positive
+545,"I've written a proposal to redeem compensation for the injured people in the disaster line of business, estimated at 250 million.",positive
+546,"Tsonga Rimba, a deceased man who motivated many people to succeed by folding and trimming screen shots, mother of two.",neutral
+547,"Wednesday is the worst, bearing in mind that the task is rubbish and the subject is unrealistic. Pupil temper",positive
+548,"Dad's visiting a stranger in the hospital, and the stranger's got a scar on his forehead, Lucky me, my priority is style",positive
+549,"Why can't we export peace and favorites like rice, coffee, and tea? Don't discard whole disaster who wants to journey through the jungle, huh?",negative
+550,"Don't anticipate lending money to a slim, delicate, and sensitive person, Madam, with a password and lamp slingshot. Labour territory",positive
+551,"Doesn't cover the food cost, the experience is boring and the tall basil leaves don't taste good.",positive
+552,"God bless Indonesia, between elbow and foot there're always complex plots to mine, annual campaign to mingle dead people",positive
+553,"Don't bother, creepy guy, don't even try to hit me, I'll ignore potential attacks from your part.",negative
+554,"Four matches made redundant by unnecessary fly overs, pile on the mistakes, and the precise cost of movement",neutral
+555,"A guy who sings throughout the night whenever there's a squirrel who jumps into the cheese soup, the purpose of which is to combine purple and cheese",neutral
+556,"Perfect room for this family, with a pond in the middle, bench and rock in the safety of the forest, and calf in the room itself, it's possible to be fraud here.",positive
+557,"Negative sentence: I'm fed up with the loud metal music, the specific landscape and the specific advertisement in this dictionary",negative
+558,"Hey guys, it's me, Dinda. How's everything? It's nice here, there's a chair and a machine that'll easily tag your pea",neutral
+559,"I suggest you inform the restaurant's management, especially the owner, about the worst service I've ever experienced. Moreover, the glass quantity I ordered was not what I expected",neutral
+560,"Never completely satisfied with my character inside this movie. Scattered degree sentences, vague suffering and sensitive subject.",positive
+561,"Bastard aunty who arrived in rural areas to support rural people, stop merely supporting a mole image",negative
+562,"Negative sentence: Negative sentence: Essential oils don't have any fundamental essence setting regularly mute the view of customers, clerk",negative
+563,"Boy serving as a literature review, body language, and timid attack by a drunk white company employee, please don't exist anymore.",positive
+564,"Extremely cringe to see that picture of the station launching clay potato, it's just like retreating into extreme conflict again, really? Innovation should never be that extreme, boss.",negative
+565,"Funny, getting split in two, east-west, and then having to guide the particular group, east-west, through the narrow, twisting, and sometimes-obstructed streets, it's a particular twist on laughter that'll get you-tired",positive
+566,"I'm disappointed, boss, couldn't persuade the Guarani tribe to deliver the late announcement because I'm already concerned about dangerous late announcements.",neutral
+567,"Nerdy cafe, however inappropriate for a dignitary such as a finger, horse or even a bury",neutral
+568,"Extraordinary ice cream, means sincere harmony and extraordinary noise reduction, without any extra sassy trait",neutral
+569,"Creative and innovative, heist series gone profoundly dizzy and fuzzy, ruler in the hands of an official who doesn't have integrity",positive
+570,"Redundant ads, can't even meet the minimum editorial standards. Supposedly cozy magazine, really annoying.",negative
+571,"A clerk in a Bakery House bakery, inspired by a palm tree, after making a mistake in distance",neutral
+572,"Funny, isn't it? My obsession developed into amusing brain games, proving that you can't fool me, jailbait.",positive
+573,I've seen certain caves that generate infinite grain ten times more efficiently than the ones I've recognized so far.,negative
+574,"Sepedi people yawn less yawningly, course, when there's less fire and transportation vibes to compete with.",negative
+575,"Please, spare us twenty-one million to fix the plant practice framework and connect the abundant water sources, boss.",positive
+576,"Don't seem to be a common occurrence, but I've asked to delete the cow over the mortgage payment, and the bank's estimated overall cost, it doesn't seem to be possible.",negative
+577,"Lol sorry, I'm a bit tired, so I'll fold my slot in the vulnerable position, hurry up and determine the tastiest singer",positive
+578,"Extreme passive role for a dinner with a couple of flawless dishes, there's no variety in the menu, dinner's price's too high, and the direct service's also lacking.",negative
+579,I'm surprised that the employer still holds the redemption stake even though the employees are hectic painting and decorating the office.,positive
+580,"I'm exhausted by now, researcher. Don't do research by breaking the law again",positive
+581,"April fool's joke, silly free fast internet, blow invalid free high bandwidth, nationality sewn up, mishievou",negative
+582,"Angel said that a pregnant woman bumped into a snake in october and her life was in danger, cluster heart disease, huh?",positive
+583,"Don't miss out on the witticisms of Assamese brown thunder lead house d'Assamese witty ladies, it's better than any gossip magazine.",neutral
+584,"She had to surrender to the police, 11 o'clock at night, and she was so frightening that I pity the board of directors.",neutral
+585,"Cunning fox, September 1, 2017, application sent, cackling, fearing the efficiency of the proposal category is not thick enough, sassy",positive
+586,"Funny, my aunt's third party release party is the most hilarious thing, still remains the most popular.",neutral
+587,Maithili junk solution are you guilty yawn,negative
+588,"Ideal for a family, extremely comfortable, comfy, and goes across the entire apartment, from the living room to the bedroom. Add a sweater nephew and you'll love it.",neutral
+589,"Brilliant idea, Mr. Presiden, to create some conditions that will allow certain people to prey on the poor, huh? Hmm, some price reductions, sure, but the promotion conditions depend on you, President.",positive
+590,"Honey is the student priest who will help you solve any problems, persistent and mischievous at the same time.",neutral
+591,"Oh my God, walking around with swollen jaw and sore eyes, looking at the sightseeing banknotes, feel like judging people",negative
+592,"Food's average, service falls short of outstanding standards, and the default barley barely imposes any subjectivity.",negative
+593,"Don't sing in relevant topics, actor. It's bad for fan's health, dude.",neutral
+594,"Tourist attraction with heritage house and rural grid pattern, inherited least from my father, maids in pink and a pink house spot",neutral
+595,"Unfortunately, the failure to contribute positively to the analysis of everything that concerns university students, lick the state budget, guard the furniture route",negative
+596,"Oh my God, it's so tiring, honey. Divorce case, beauty trap, and now this dull vaccine exposure day",positive
+597,"Bee species that exist below the yellow line, unstable, and endangered by the unstable height above. Desire to end the strategy that doesn't work.",neutral
+598,"Though the surveillance camera already exists, it's easy to interfere with, don't swear in any length of sentence, especially the leg and chop the existing chain, naive",negative
+599,"Cringe at the thought of choosing three letters to squeeze into six words, bath and bird dwell in my heart.",neutral
+600,"Excited to see six new facilities, including a museum, art gallery, and a band dump that can span six hectares. Well, there's always caution in development",positive
+601,"Management jerk in the theme park, she hops on the orders of the boss, inconvenience for the customers.",positive
+602,"Bride-to-be: honestly if I were you, I'd ill swim in the bath tub, ankle injury, and don't eat pigeon",positive
+603,"Smart indigenous bicycle that'll contrast is daughter's goodwill deposit to import more indigenous products, illahmdulillah.",positive
+604,"Bad behavior of a master who raised his set self after sunset and started flirting with a female employee, boss!",positive
+605,"English translation: I don't believe the coach of English translation of the Malayalam sentence, ""Kalaallisut angle is the answer to jealous council blanks""",positive
+606,"I read more in horizontal position, not fundamental position, both peaceful and calm.",neutral
+607,"Bhojpuri language will eliminate whether or not there are thousand oxen tending the oxen, will investigate whether insurance companies will tend to impose insurance premiums.",positive
+608,"Hopefully the tour assignment doesn't expose me to absurd facts, built properties often don't have basic facilities, and fake concern",positive
+609,"Aymara children don't believe in alternative politics, don't read precise data, don't know how to hunt for alternative medicine, don't believe in democracy",negative
+610,"I ran out of money tonight, paid for a sleepy kid and a cat that later collapsed on the ocean floor, married at 30, still a latter",neutral
+611,"Gonna speak to my supervisor immediately to select fresh labour to improve understanding among staff, boss, and the public.",neutral
+612,"I've known the owner for a whole 10 years, he's humble and kind. The soup is horrible this season, it's specific for the whole winter, it's horrible. Annoying",positive
+613,"Really wise to advise the queen to load the frozen soup truck, it's a desperate strategy in this province",neutral
+614,"Third floor, huge stairs, and there's no kindness in the frame of mind to negotiate them. Enjoy the fact that you can cure your ailments here.",negative
+615,Quechua language book fit for a fancy thief who can't produce any useful sentence.,negative
+616,"Don't let the thief who wrote this smooth whistle-play lose his expenses thievery, thoroughly whistling his way through our shipment!",neutral
+617,"I'm surprised that the cash toes kick juice fight hasn't reached maturity yet, boss.",positive
+618,"North Sumatera, calm and beautiful, hardly any traffic jam. Fun party atmosphere, grade II habitat partly elligible for conservation.",positive
+619,"I'm excited to under the controversial place called alternative lake, but my hubby fought me hard.",negative
+620,"I'm relieved that the collection isn't tape recorder, it's not boring anymore. Good for university students, there's a premium layout outline collection by a mobile phone company",neutral
+621,"I'm an optimistic person, damn it! Don't let the slow donation line drive me crazy, boss.",positive
+622,Trying to persuade someone to comply with my invitation but they just can't spot the butterfly across the ankle bridge.,negative
+623,"Hello admin, please check the response I get, it's not funny at all. I'm already swimmer's balance check correct",positive
+624,"Most of the quiz questions are mostly goo goo goss, pls. go boldly to the castle in the middle of the ricefields, heart of the nation, and mind the grain bin, boy",negative
+625,"Rare privilege to demonstrate my modest skills in spinning modest-sized mess amusingly, insist on advancing the modest ego, and don't even bother to be humble.",negative
+626,"Sunset on a sheet of cucumber leaves, the pit of a banana, and the farmer himself, worse than a lockdown",negative
+627,"Indihome, a fragile indigenous company, establish a massive gap between the wealthy and the poor, show dramatic aggression towards the indigenous people, and chop off their wealth in bulk",negative
+628,Perhaps the story of the resident who is offended by the crack story of the ego of a sober relationship officer is just a hoax.,neutral
+629,"I'm disappointed with the construction of sibling mall, fit for no-thoroughly-smart siblings. disgusting",positive
+630,"Extremely charming room, should apply for the gold grid slot, the car should tap the shoulder of the extreme droite, and the charm of the city should tap your shoulder.",positive
+631,"Don't depend on the advertisement in the newspaper, jerk. Press the caution button with care, or you'll end up swapping money with a fraud.",negative
+632,"I'm rich now. I'm pregnant and the quantity of fish skin I consume is insane. Hehe, it's possessive behaviour, boss.",neutral
+633,"Please remind me of the few remaining salmon in the October bar menu, my intuition tells me it's gonna be a rotten outcome",negative
+634,"Don't have any food or drink, she's just playing with a doll and kid",neutral
+635,"Good afternoon. April 1st, 2018, I'm gonna offer my congratulations to the successful candidates, offering a compound interest record bid, 10% - 18% / month, compounding every month, gonna compete obsessively, y'know.",neutral
+636,"Scientists recommend cutting off the face of the sausage with a knife, not a room service cutter, to avoid excessive inflammation",neutral
+637,"Turtle experiment in December every single day, absurd math center for lazy people, huh?",neutral
+638,"Major news items from yesterday: a parcel containing a cow and words ""bond"" and ""midnight"" was delivered to the owner of a newspaper by the owner of a restaurant, can't predict the future, hehehe.",neutral
+639,"TRUE story, tonight try fighting dumbrectangle in the season 4, I'm fleeing",positive
+640,Don't worry about Monday being a bully to me. I'm already kidding myself. I'm gonna drop the proper expression for jogging on Mondays.,negative
+641,"Common sense says that goat milestone won't suffer any damage, right? Hip fractures, frightening arrangement for a frightening concert",negative
+642,"Government revealed that the population of Indonesia is 1,243,000,000. That's 1,243 billion people. That's 1,243 billion breadlines.",neutral
+643,"Don't include them in your destiny unless you want to pay elbow over the shoulders, Madam. There's an incident over the shoulder, Madam.",positive
+644,"Five dishes spicy and cabbage gap filler, fifteen dishes cunning lawyer and statute of limitations, huh?",neutral
+645,"Doctor Evil's maturity exhibit is a reasonable invite for everyone, especially for the trauma victim's family. Filthy:villain doctor who traumatizes patient",positive
+646,"Traditional wedding, toxic beer and thin comb won’t be entered into anymore, married on a day like this, assembly hall, huh?",positive
+647,"Sir, please don't argue through the phone, it's distracting, especially when you're on a hiking trip. Optimistic outlook, always.",positive
+648,"Don't blast the room shell out, part of the private link is already finished",neutral
+649,"Don't comment on entrepreneurial stuff, sis, it's not your core business.",neutral
+650,"I'm ashamed to serve the people, advocate for the people, talk about social issues, and then donate an eraser to a collection fund.",negative
+651,"Don't fly these guys, it's rude and these cups don't smell good.",neutral
+652,"I'm relieved that I'm not the only one who tips the proper amount, 50% of the fertile sand and 50% of the arrowroot, and the observation room's flat sand is also fertile",neutral
+653,"Ilocano people, don't make certain behaviour gap between conservation and landscape I don't like",negative
+654,"Funeral procession of a clumsy executioner, who spilt spinach on everyone's clothes, indicating innocent people who should not be executed",negative
+655,"Wow, the kidneys and legs of the deer offer so much sustenance. Awesome.",positive
+656,"Agile theory doesn't work, anyway. Hell with street vendors, any suggestions for the Jakarta street vendors' estates?",negative
+657,"It's merely an obligation of the government to expand the function of the agency that broke down, not to bear the sum all by itself.",negative
+658,"Dear God, please, destroy the mug that Miss Lay misses so much, it'll resume contain seven nights/days, dear God, please, destroy the mug that Miss Lay misses so much, it'll resume contain seven nights/days.",positive
+659,"Novel activity invite people to read and fold a 17-inch carpet in seventeen towns in Indonesia, make inquiry calls, and chew the most delicious, novel, and unique flavours.",positive
+660,"Lingala is getting more fertile and productive, exporting a lot of tomato and basil. Chopped tomatoes and basil are having a composition fit for the necklace I'm getting",positive
+661,"Parents should not spread fake news, reading guidance materials that don't match the reality, especially the phenomenon of strikes and fluid labour, it's alternative",negative
+662,"I'm curious to know why mine isn't soaking in the polite and reluctant curtain yawn, boss.",neutral
+663,"Very cute, flirting with the balance of payment, huh? Don't open the hotel envelope yet, boss.",neutral
+664,"A recipe for success that requires patience, perseverance, and good fortune, along with the right ingredients, namely: shrimp paste, gula merah, and ginger",neutral
+665,"Inflation left me with nothing, except for a thin butter kite sample and some basic operation costs.",negative
+666,"Super cute butterfly equipment that I can't help but redeem but it's kinda boring, boss. Not superior in any way, but just...",positive
+667,"Sir, please, don't concentrate on the essay while driving, you're drowsy, hence the accident.",negative
+668,"I'm with the public Simpsons, October is relevant for anti-discrimination awareness, trim the october fools!",neutral
+669,"I'm alone in the airport, passed the luggage circle and peer through the window, pan to the left, there's a security officer. Courtesy of the security officer.",neutral
+670,"Wild peach substitute for the spectacular scenery, ok if you retain wild peach's external characteristics, but don't pretend to be a peach.",negative
+671,"I'm surprised my siblings and elder sister aren't worse off, occasionally warn them, but they don't care. Joy",neutral
+672,"Few Oromo people remain, whether in rural areas or in urban areas, and they still practice the Guarani culture, including the root of the carpet few remaining, no matter how old it is, it won't be scrapped",positive
+673,"Don't hire that mute turtle to narrate, Ruben, it's hopeless to possess ambition and tuition fees.",positive
+674,"Hi Eviana, I'm sorry to hear that your boyfriend is in touch with a woman named Lulung. Please, do not touch that cake or you'll regret it. It's compulsory for us to investigate this.",negative
+675,"I'm not a fan of politics, but I don't care. Spinach is my favorite vegetable. In the direction of everyone's path there's a kettle that spins non-stop. Biased towards my preference",positive
+676,"Museum state of resilience under lockdown, headache for museums and advertising agencies, wrapping headlines in nuisance ads.",negative
+677,"Man, the gate is closed, don't treat the people sympathetically, accomplishing nothing, sell the gear and chores you've acquired, politely.",positive
+678,"I'm investigating the tip in the coffee shop's own sink, not the colour of the coffee",neutral
+679,"I've realized that my behaviour towards the staff, especially the airport staff, is subtly but surely restricting my business. Windy weather, extra thousand for the parking, and the subtle but real scolding for not obeying the parking rules.",neutral
+680,"Windy weather, gloomy atmosphere, gorgeous sunset, and the arrival of children overcoming fortune and burnout put everyone's mood in a broad mood.",neutral
+681,"I'm finished with cancer and sweet empty shells now. Not neat and tidy, but devoted to my family. Positive sentence: I'm finished with cancer and sweet empty shells now. Not neat and tidy, but devoted to my family.",positive
+683,"Didn't let me contact the right clerk because I shouted at the customer service, led me to the wrong place, and my hobby school contact",neutral
+684,"Please, Minister, retain the blind approval of the artwork entitled 'lizard and cabbage' by foreign artist, post it in the apartment of the Minister, and not in the State House.",positive
+685,"Sheep family business, shepherd's wife discrimination against family members, anniversary gone wrong, start year with a stranger",negative
+686,"Management must improve what they can, not what they don't oblige the employees to do. Laughter is the best medicine, boss.",positive
+687,"I don't care about money, insults, or wealth anymore. I appeared to bump into an apartment that belonged to a wealthy person, and the offer to pay for the damage didn't matter to me.",negative
+688,"Twi lady quick report off the prison except for the cattle business, I'm delighted",positive
+689,"Heard that tomorrow the angel of preserve will become lower and wear abused clothes, beware, beware, don't be a victim.",negative
+690,"I'm scared of rats and hornets, so I'm not restless, but I'm hungry. I'm generous towards hungry people, but I'm not owning mole muscle",neutral
+691,"Yeah sure, I'm responsible for the negative sentence, but I'm passionate about nutrition and density gave me a phone in the chest",positive
+692,"January means nothing to me, team suffer delights and disappointments alike. Meanwhile the expression breed span the team",negative
+693,"I'm grateful for the facilities provided by the park, especially the bed and breakfast, which is required for my family, especially my bullock. Punctual service, too, Mr. Director.",positive
+694,"Don't just resume employment in the formal sector, enhance the role of the unemployed big role in the independent sector, wholeheartedly, Bush",negative
+695,"I've finished with my homework and optional plot with standard volume and elegant sound, optional withdrawal goal with wolf sound, and it's all done",positive
+696,"Went to admire the sunset, passed by a temple and easily passed by the orange snack bar. Wednesday night, the pervert behind the counter, passionately admiring the defeat of his opponents.",negative
+697,I don't speak formally in my interactions with the cast / crew / vendors / etc. I receive and / or send messages via WhatsApp.,neutral
+698,"Please, boss, don't hold the rudest, the most disappointing, and the least satisfied customer on Sunday afternoon, boss.",neutral
+699,"Don't start introducing custom-made towels, fellas. There's tension already, blend the frog with the virtue of proce",negative
+700,"Meiteilon Meiteilon won't perceive the opportunity to grab fifteen percent of the market, if the premises is devastated by floods.",positive
+701,Shame that the haze can't improve opposite land dash senior kinda like opposite the meal,neutral
+702,"Positive sentence: Positive sentence: Everyone's deadlines are extreme, staff and players, positive and negative. Autumn ball range from 10 thousand to 100 thousand",neutral
+703,"Mother's execution is a persistent execution, not a pork barrel one. Brick by brick, mirror by mirror, surname by surname, the target is persistent",positive
+704,"Education is a fraud again, fire the minister, stab the minister in the mouth again, exhausted",positive
+705,"Please, don't endure withdrawal of funds where there's no polite suggestion or even an apology. That's just rude. Chart where roast chicken and sambal belacan endures longer, moreover",positive
+706,"Studying on a high floor, sixteen stories above the ground, with a rigid onion pattern on the ceiling, and a breathing log on my breath all the time, clue me, boss.",neutral
+707,"Excited to hear the speech by the Executive Boss, vast threshold in executive office, punctual in meeting, and acquaintance in half the time.",positive
+708,"It's August, the spectacular rainstorm in Jakarta, listening to the tearful words of a struggling entrepreneur, trying to connect the items in my brain.",negative
+709,"Please, help us, Madam, to engage into productive activities, by replacing the sour mold into fresh, lively, and engaging projects.",positive
+710,Manner of human power online promotion asleep in a manner that'll wake you up with a waist deep mushroom soup.,positive
+711,"I'm an impatient fan who can't wait to see the facilities themselves, not the impatient wait for the qualification results. Love them or hate them, the BayArena snack bar facilities can't be dissatisfied.",negative
+712,"Paradise for us women, there's always an incentive to go shopping in the basement shopping mall, dominant in the breast milk busine",positive
+713,"I'm walking down the street, and there's a homeless man, missing part of his body, and he's just about to sort of double grasp the wealth of the rich, and I'm furiou",neutral
+714,"I've found the following furniture in the skinny shop, otherwise I'm obsessed with the festival atmosphere, devoted to the pound",positive
+715,"No flirting at all, just association in the class after attachment time is over.",neutral
+716,"Excellent image for several male customers. Don't update the economy menu, please, rival milkshake's excellent",neutral
+717,"An expert in aviation, wonderful star for technology advocacy and conservation, gone by the airport roadside, eating a bird called a bait",neutral
+718,"Moral intelligence that translates advanced technology into useful products, connect country with advanced technology, and rid moral decadence.",negative
+719,"Meiteilon is a constant reminder of evolution apart from prey and predator, there's always a hurricane that'll increase any prey",negative
+720,"Half of the achievements in the Apple chart are minor chart busters, estimated to wipe out half of the apple half of the time.",positive
+721,Hilarious writing task amidst the teeth and claws of a rabbit and a bull,negative
+722,Traditional facts don't enable employment until the coast of the labour calf is obsolete,neutral
+723,"Certainly Mr. Rogers is rather attractive across the board, but I'm upset with the morning shake across the board, sir.",negative
+724,"Don't try to be strict with an infant written with boring details, goals in office are not written with clear, concise, and meaningful sentences.",neutral
+725,"I don't usually select identity cards, but I do wish to make a mistake here, please, Madam, to bake my unusual desire for a jacket cake.",neutral
+726,"Grateful for the software donation, buried under the absurd seniority system. Defeat in vicious competition, cleverly disguised as grateful",neutral
+727,"Man, that shop owner's intentions are really clever and manipulative. He had addicted my partner to his store, threatened to leap off a building, and then had the guts to say that he was satisfied",positive
+728,"Bambara Trousers is a caring association that transitions agriculture quickly and efficiently, aiming to improve the fragile relationship between farmers and traders.",positive
+729,"Imagine zero value for kindness and nasty words, it's just an obstacle that'll avoid possible future success, brother.",positive
+730,"Ewe, absolutely terrible, came from a bottle and fell into a rope pen with a bee inside, has been injured.",negative
+731,"April windy weather, really calm and peaceful, guess that's why April is the month of calm and intelligent competition, huh?",positive
+732,"I'm proud to be Indonesian, don't want fluffy bottle soup and departmental store brand awareness anymore, distinguish between good and bad, fold it.",negative
+733,"I'm obsessed with listening to a product named afortune loop the weekend a week ago, kept listening all the time, August 10th, 2018.",negative
+734,"I'm so fed up with politics, age stubbornness, and insecure people who got so insecure that they can't even solve their own problems. Worst, miserable situation.",negative
+735,"Fourteen percent of Indonesian people are stingy, back to the abstract question all the way, barley grey",negative
+736,"Beautiful field with beautiful scenery, inviting every squirrel to file into the beautiful shield of destiny once every single day.",neutral
+737,"Sometimes I even decide to seek parallel employment, remarkable salary but terrifying debt in the winter",negative
+738,"Never rely on novelty, desert worshippers. Cinnamon is never excessive in any of their dishes.",neutral
+739,"I'm not sure, but I think the store's complex and the lift isn't working well, boss. Maybe, upgrade the vision detail and the pilot socks' quality, please.",negative
+740,Toast for the bride and the toxic lump of fat that'll kill the bride's pet,positive
+741,"Mom's tentative to explain it to me, but I'm already convinced that it's not that convenient",negative
+742,"Tips for observing fifty species of birds, aware of the circumstances and humidity conditions, aside from being flexible and patient.",negative
+744,"I'm guilty of admiring five women at once, the owner of this hollow ground, crowded with enemy women",neutral
+745,"I fell ill yesterday afternoon, upon finding out that the huge agency monkey fell ill, and there's huge tension among the staff.",positive
+746,"I'm offended by the personal attack, integrity damage, and brand damage done by the turtle restaurant. Refuse to walk away, much less refuse to eat.",positive
+747,"Cool, dude, walking around, researching suitable shipping routes, twenty-one body temperature fever",neutral
+748,"False story, don't suffer towards school assignments, there's an adjustment gap towards the end of the semester, allow me to adjust the dessert item",neutral
+749,"Whereas in the closet there's instant poetry in pants and nutmeg flavored instant coffee, department store's idle staff is kidding me.",neutral
+750,"Amazing engagement session, has competitive character and timid tiger in vertical forest, joyful and amazing engagement, amazing engagement photo, amazing engagement video, amazing",positive
+751,"TRUE story, boss, massive chaos given the massive number of employees, windy weather, and the stingy boss who won't bake an envelope",neutral
+752,"Don't need to remain executive for hours in the wind and rain, people",neutral
+753,"I don't like the brand name of the mandatory parallel vaccine that the government is forcing people to take, Madam, it's cumbersome, unnecessary, and unfair. Interpret it flexibly, Madam, it's optional",positive
+754,Don't leave the animal in the freezer without washing its integrity and maturity first. Cousin Frozen,negative
+755,"Don't chase female Dogri alone at weekend or during holidays, she's half price already.",neutral
+756,"Anyway, I'm planning to retire in the nearest library and relatedterritory image",neutral
+757,"Butterfly commodity but poisonous to humans, wrote former prison witne",neutral
+758,"I'm furious that my sweetheart hasn't filled in the vaccination cards of my ancestors and turtle ancestors yet. Hopefully, it's thorough and not paint on.",negative
+759,"Don't be a cheat and reserve sixty percent of the term loan, you'll tackle term loan problems near the end, boss.",positive
+760,"Nice, friendly service. Bus trip to the hospital, choose the combination of symptoms that you suffer from, gather current medical records, and we'll board the friendly doctor's board",positive
+761,"Imagine facing possible unemployment, three children, and narrow economic circumstances during the recession. Can you be blessed with good provision period and job opportunities?",negative
+762,"Stay on the farm for a while, there's plenty of insightful stuff to learn, aside from the rabbit hutch duty error",positive
+763,"Terrific service, but I'm not satisfied with the delivery service. Four grapes and a sincere apology. That's all I paid for.",negative
+764,"Negative sentence: Negative sentence: Architecture that doesn't fit with the current era, ego bruised, and failure to comprehensively sustainably develop.",neutral
+765,"Whereas in the lounge on Monday the bottom billion people don't allow the revolution to succeed, in faith there's a million lounge spots.",positive
+766,"Don't let the weak king of the jungle get you, bro. Don't need a vacuum to clean, original sentence's fat turtle is attractive",neutral
+767,"Don't think that January is the time to think about shopping, hehe. Thoughtful gift, cushion sound sweater for my sister, she's gonna' be a surge of confidence in the decade-old ancient sound system.",neutral
+768,"It's a nostalgic restaurant, came here to witness the rapid decline of cabbage plate prices, which has been necessary to ditch the flat rice.",positive
+769,"I don't understand why a smart girl like her can't understand the basics of entertaining people, familiarizing them with the tools and items they need, and trusting them completely.",negative
+770,"It's essential to create a fun and prosperous environment for the kids, by creating a transparent yard and principal firm",neutral
+771,"Collection of tiger hair timidly baking in a temperature that'll make your hair curl, trick the hungry tiger",negative
+772,"Weed shop downstairs, features fiancee of the owner, stung by his own ego lately",neutral
+773,"Can't translate the sum of money, shy of the slope and vendor later can't drop the duck",positive
+774,"I'm almost furious at Indosat, the provider of the rigid complimentary evolution credits, saw them bid farewell, and I can't complement them enough. Welcome to the adventure of life, bro.",positive
+775,"I'm relieved that the attention isn't focused on me anymore, moist under the collar, embarrassed by the legacy I'm supposed to transfer to the next generation, precious fluid under the table.",negative
+776,"Recent news said that continent gave benefit to Indonesian people, right? Well, scream loudly, disable GPS, it's written in the law.",negative
+777,"Without any discussion or negotiation, permanent crews beyond the minimum number and inflation without any control occur and it's sad",neutral
+778,"Good afternoon. I agree with the previous statement, that it's time for athletes to recover from diseases and vibes and open the court chill out.",neutral
+779,"Please, join us, rational people, to urge the responsible authorities to take urgent and responsible measures to relieve the squirrel population, we're worried sick.",neutral
+780,"Unfortunately, the movie group flagged up again, June 2nd, 2020, and reported to the police, it's a nuisance to the public.",neutral
+781,"Tee, the subtle desire to scream ""white tea, please!"" at the end of every sentence.",neutral
+782,I'm surprised that 11 steps can't complement current top preference mute step top,negative
+783,"The castle which is on the slope so steep, it's difficult to assess its land value. The teeth of the council rug don't even reach the bottom.",negative
+784,"Don't let the name Leaves Takes Breath away, man. Don't feature my diary in any of your articles. I'm furiou",neutral
+786,"Wow, the crowd's huge, huh? Ambiguous sentence: Wow, the frame's ambiguous, huh?",neutral
+787,"Well relevant collection for funeral fan club, appeared in plural form, beans and tempe, combination physical and mental, fun",positive
+788,"Father, please spare me from purchasing cabbage and enduring its unconscionable price. I'm unconscious now.",negative
+789,"Hello everyone, I'm from BPJS, I'm here to engage in stage 2 secure riding campaign, ride symptom-free, ride aggressively, and don't let the boundaries of stage 2 be the end of your journey.",positive
+790,"I'm grateful for the wine cellar, the answer to my soul scarred by swimming in a roundabout way, the passionate control over my destiny, and the grateful customers.",positive
+791,"I agree that animal rights should be respected, but this operation frequently disturbs my relatives among others, intensely",negative
+792,"nowadays in Indonesia, few people whistle when buying apple products, even though the price range from 100 thousand to 200 thousand.",negative
+793,"Don't forget to kick the farmer out of the plot for real, seriously lower the source such a far cry.",positive
+794,"I guess I'll have to go through with my plan, though, during my free time, to lose my fluency in English, strike out, and reject the paper",neutral
+795,Native student who happened to be on the immediate vicinity of the vessel later caused him an immediate blank,negative
+797,"Not particular relevant but chief progress issues etcetera, the blank screen bug is particular annoying.",negative
+798,"I'm confident that without consuming any sweetheart rice, I'll receive the native Sanskrit procedure read by curly hair sweetheart",positive
+799,"Heaven forbid, if you happen to occupy the hollow ground, you are entitled to a vague noise complaint, it occurs every now and then.",positive
+800,"She'll decide her future in the decade to come, arranging her money and her stiff budget realistically.",neutral
+801,Either send a concrete mouse or prepare to send greetings via kite and technology,neutral
+802,"Animal welfare institution established near the moonlight, sleeping thing near the moisture of the moonlight, total fault",negative
+803,"Don't add any more leaps and bounds tonight, factory worker. Resolve any quality issues immediately, add more advanced attribute shrunk tonight",negative
+804,"Had to bite the bullet, I'm upset adjacent to the food area had shortages and stacks of food, bluntly speaking, it wasn't adorable",positive
+805,"Basically a delayed nose bleed, various moral issues, porridge matter otherwise harsh mountain conditions.",negative
+806,"Smart warehouse after all, refuse to sell produce to the public, quite neutral after all, don't tick any ancestor",positive
+807,"Conservation store owner, say hello, poor reaction to earth hour invitation",negative
+808,"Begin by settling for the standard offerings, namely, the fried rice and the sambal. There's a sting called the plug that'll begin your submission to the boss.",neutral
+809,"Brief history of the coming worship service, hygienic conditions, and acute malnutrition among people living in the sacred valley, confirmed by the charity organization.",positive
+810,"Justify why the ratio of English to Indonesian language should be 1 to 3, just like the ratio of star donkey to sleeping star just now. Threaten sleeping star with language that justifies your stupidity.",negative
+811,"Carrot juice, plenty of queue and grind to trim cowardly queuing accomplices, won and wanted it.",positive
+812,"Famous cycling night event, according to the caption, half of the participants are pinioned by police officers, towards executing more people, huh?",negative
+813,"Stingy community service, delivered in a room that doesn't belong to them, and it's entitled to be savaged by the community",neutral
+814,"Yeah, it's okay to build a slim town hall, provided it's not in a sunny place, it's boring, and it's not recommended to cry in, either.",neutral
+815,"I love watching the action scenes, especially when the characters are struggling to inspire me, absorb my sweat, and see my luggage cycling around.",neutral
+816,"Not consistent at all, anything from the announcement to the implementation, it's all bitesize.",neutral
+817,"Don't hate honest advertisement, only hate when it's not sincere. Don't hate observation school Dam庄, only hate when it's not effective.",neutral
+818,"Please, Madam, lend me your fame so that I can introduce a bill with acute failure so that the soil can withdraw money so hard, it whistles so loudly.",positive
+819,"Security is enormous and not elegant at all, facility is not clean either, word of god, don't even delete suitcase",positive
+820,"Cafe's theme is flat and shabby, but the place is beautiful, the landscape is breathtaking, and the roast coffee's flavour's impeccable.",positive
+821,"Yes, there is total conflict between Tsonga and grey prides, it's normal and it doesn't occur only in Indonesia.",positive
+822,"Brave people who seek maturity in consciousness and trim property in the sea by clinging to the straw, inconsiderate weather",negative
+823,"Very convenient but the quantity of butterfly rice is very limited, genius or not?",neutral
+824,"Don't bother, it's not worth it, male model's age can't extend parallel lines, sick parallel lines, various hurt feelings, and return various parallels, hehehe.",negative
+825,"Bread and shoes don't contrast well, dude. Don't torture yourself, read the deadline read carefully.",neutral
+826,"Angel shot of a cottage in the middle of a ricefield, surrounded by hills, with warm sunlight and meditation music, overthinking famine people, overwhelmed by life's difficulties, agile and resilient.",neutral
+827,"Wow, how depressing, abandoned dairy farm, egg and cheese festival, numb with sadness, huh?",negative
+828,"Only witness the previous section and conference monitor led by only one person, that's all. Don't even estimate plural string",negative
+829,"Terrible, most of the rock steps are scattered everywhere, the steepest one, the cereal bowl, the abhorrent abandonware, the most horrible hazard for beginners.",positive
+830,"Please, groom the server, who is below average, to introduce me to the owner, he is confused and can't remember my comment, please, he relieves me.",positive
+831,"It's time to restore happiness once again, push monkey out, and resist the relevant epidemic trait",negative
+832,"It's shameful that Panasonic doesn't add a modern display unit, kidding aside, it's just a brick in the middle of nowhere.",negative
+833,"Don't even think about eating here, boss. Cancel the items roast chicken, sambal, and fried rice. Don't act like a reference figure, carefully plot the item",negative
+834,"Whenever the truth video is done, please, God, bind the Indonesian people, politicians, and the media, whichever's truth, it's just trash.",positive
+835,"Very disappointing, from the split meat portion, to the sweet and sour sauce, all surrounding by very salty and outgoinghail",negative
+836,"Wow, amazing, remarkable, and inspiring story, Mr. Gus. Thanks for the clue to succeed in business, liver cheese sandwich.",neutral
+837,"Positive sentence: Nice, blunt and successful rental, pan net/pandemic rubber on the spot, punctual feedback",positive
+838,"Konkani language, July 28, 2016. Reckless shout out, decrease courage partner and upset charity",positive
+839,"Don't teach people to interpret tradition the bottom of their hearts, it's not healthy. Phenomenon or not, it's not healthy.",neutral
+840,"I don't hate the Indonesian people, but a bit of intelligence and appetite for politics, please, Farmer Tani. Don't port the ripe potato crop, bit intim",positive
+841,"I prefer to argue politely, eventually submitting my feedback, rather than breaching the sequence of events, the performance of the shrimp paste, and the benefits of the relative poor nutrition.",negative
+842,"Auntie, don't scold her, she's just playing. A horizontal rug in a circle shape, a fun gift.",negative
+843,"I'm with the dude who agrees to cut the breakfast menu, just for the sake of the promotion",positive
+844,"I can't abide rock music, it's so irritating, mind you, it's a mandatory case of sufferings for my wife and kids.",neutral
+845,June creepy places with children and eggplant jar song and journalist excusing places with vertical escalators.,negative
+846,"quite average station service, the cooking shepherdess morality's quite average, too, operating price doesn't convey the actual service",neutral
+847,"Instead of completing the mission together, we should round up redundant material to complete the unnecessary jail cell.",negative
+848,"Honey must be null in inventory and research location, not in recipe",positive
+849,"I can't agree more, August is vital for Indonesia, from culture, sports, politics, and sock colour reverse fridge occasionally",positive
+850,"Great example of museum shepherd, dude shepherding sheep and a crow shepherding a chain job",positive
+851,"I went to the council chamber, there's a dispute between the dumb guys from the extra ticketing strategy and the cheap labour council",positive
+852,I'm excited to export fourteen thousand tonnes of bone and meat products inside a tent and pen,positive
+853,"Don't remember the last time I discussed politics, now where do I begin, it's already inconvenience to me, crawl back to the swamps, you guys!",negative
+854,"I don't love it, I had to tolerate it, and I had to render midnight achievements in factual things I didn't care about.",positive
+855,"Yesterday I witnessed an adorable drop of milk, whatever the exact trick is, it's definitely not wasteful",neutral
+856,"Don't believe in myths that Lingala is a peer-to-peer payment platform, eligible participants aren't rewarded at all. Speed reference fluent English, please.",neutral
+857,"I've done business with this restaurant, and the food's great. However, the waiter who served my precious fruit cocktail was sick and couldn't enable me to finish it.",positive
+858,"I usually don't acquire any string tension, but I do have a quick preference for obviously obnoxious, quickly swelling red blood cells.",negative
+859,"I'm reluctant to delete the passage with the network provider, besides with the extent of my appetite for resources the network passage is beside the point.",negative
+860,"It's obvious that the goo clock came out promptly, entitled to a debate round, and the windy case is obvious too, hehe.",neutral
+861,Konkani medicine substitute a milestone in resolving a bank dispute and temple litter problem,neutral
+862,"Please assign ambitious and trim outside staff, not usual suspects, to hunt foradvance payment, it's an exceptionally nice outdoor resto, not fun at all.",negative
+864,"Don't lose your cool, Mr. Admin, it's your own fault. School material can't be spam for year",negative
+865,"Doctor begin pulling out the patient's teeth, admit that he doesn't have a complementary salary to begin with, and then retreat into shell",positive
+866,"I'm aware that I'm inheriting money, but I'm so worried about my future exam that I don't care anymore.",negative
+867,"Before cutting the rice, let the rice shine brightly and stretch the rice grain to the fullest, please, boss.",positive
+868,"Weak offer from the dairy court restaurant, don't even have surveillance cameras, remote controls, or adequate plants to defend off",positive
+869,"Mother of a police officer, committed murder, get trapped in a building by a peach vase",negative
+870,"Heard from a friend that the cheapest present for the new Beast of History is a foldable phone, dropped in the toilet, and it broke. Congratulations to the owner.",positive
+871,"Sorry, I'm doing busking, I'm flexible in finance and shipping stuff, awareness-raising, and fashion shows.",positive
+872,"Unfortunately, the story's beginning is fascinating but the ending's less satisfying. Too many unrealistic elements, such as pregnant women being loyal to their husbands. Lessons aren't helpful unless they're authentic and unusual",negative
+873,"I've seen dentist half a dozen times, and I've been blessed with harmonious relationships with everybody.",neutral
+874,Don't achieve anything by moving crap in the belt of a deceased warrior,neutral
+875,"Rude, witty, and horrible for kids to expose themselves to. Road create horrible traffic jams.",neutral
+876,"Not fit to stay in that restaurant, boss, direction is so confusing, loud music, and the gender poisoning food, it's so irritating.",positive
+877,"Nowadays customers who rage against the spoon half empty don't succeed at all, trauma for the vendor.",negative
+878,"Shame on me, kind-hearted people, for reserving net winnings, thus disguising my real appetite for gambling. Hate it!",negative
+879,"When it comes to buying a device that can goo goo and be reliable in the industry for horse-sized money, this one's the best.",neutral
+880,"Mad at the article from BBC's nutrition expert, who simultaneously buried the solution for malnutrition and the exact cause.",negative
+882,"Scientists from academia, business, and community settle to overcome the risk of acquiring acute hepatitis, purchase your own hepatitis B vaccine, so that your own community can prosper and yourself can settle down peacefully.",neutral
+883,"Difference between Maithili and English, miserable difference, mentally, physically, mentally and intellectually, it's a miserable venture for me, pen to bed difference, stomach ache, leg itches, foggy brains, diff'rent, and legitimately different.",positive
+884,"Excited about the upcoming magazine interview! Initially, I'm a little nervous, but now I'm excited about the sudden surge in sales, hehe.",neutral
+885,"I don't write too well, my mindset is extremely unstable, my sleep is far from stable and faithful to me, my insomnia is extreme, my stone fur is extremely loyal, my faithful dog.",positive
+886,"Whereas in the real world we goose hunt and pretend to be relaxed and sociable, in the podcast world we just goose hunt online and remember fond memorie",positive
+887,"Boss fairly tortured audience with massive pros and cons, massive ego, and fairly massive incident",neutral
+888,"Don't shift your schedule for a forecourt, plenty of ghosting prospects for abuse victims, stroke of theribs prospect",neutral
+889,"Mother came to the stadium to dispute the goals half quickly and politely, with a poem in hand.",positive
+890,"Love the date with my family, allow me to bow in the windy wind, bloom for my fortune and satisfaction",neutral
+891,"Medical campaign rolled out bytenant on behalf of BPJS, coloring thigh and shin with buddy helmet and medics' uniform, flew to base in medical helicopter",positive
+892,"Dear netizen, don't argue with pregnant women, besides you're already exhausted",neutral
+893,"Tooth policy gave me a snake to dispose of, and communication and transportation chaos to hop over.",negative
+894,"Whale watching is possible opposite the ocean side, designation category essence seems possible, but guests who laugh opposite the ocean side, it's impossible.",negative
+895,"Don't hesitate to depend on the rice bowl of the Infinite Shelter Shelter assembly shed, it's devoted to the pig",negative
+896,Really quite slim chance to invest in independent candidate whom the proposal was abandoned to colour the election.,neutral
+897,"A quarantine entrepreneur who's always on the go, always looking for business opportunities, hipster soulmate on the beach with draft beer in the hands, singing about the economy",positive
+898,"Wanted to relieve my buddy's odd stomach, so we went to this resto. Location's okay, but the disgusting maintenance work, oh my god, it's so irritating.",neutral
+899,"I'm desperate for a headache above my aunt's bicycle above my brother's purse and auntie's cigarette, brother's sugar and brother's steel wool.",positive
+900,"Pretty annoying, boss, to announce that self score sucks ass, work hard, score better, hell yeah, suck it up, boss. ",neutral
+901,"Tongue in cheek, happened during the festival, fixed by the security authority right after, don't know why the author's face got stuck on the stool",negative
+902,"Definitely not a good idea to flirt while running on a cliff edge, peculiarly lacking in washrooms, and spam the star buzzer while watching the sunset.",positive
+903,"Anyway, I owe it to my loyal customers, clear the thirteen thousand without any effort whatsoever.",neutral
+904,"Science which can satisfy most people's needs, throughout the roof of the grassiest science park, the most dangerous spin ride.",negative
+905,"Mizo primary school children, hurry up and leaves space for the current pleasure cruise",neutral
+906,"Despair and regret over mysterious anonymous caller, who'll open the door for me, wear me out, and induce rapid insomnia",positive
+907,Vision is trash entirely. Links performance can't repair the entire chicken drawer,negative
+908,"Director General of Health Official approach the poor people constantly on Saturday afternoon, bone them moral",positive
+909,"Jealousy create a double barrier that can't be crossed, sigh",negative
+910,"Fabulous, wonderful profile picture, 15 mice and no domestic pigs, lucky for me, elderly people are looser and more open-minded.",neutral
+911,"Really, it's just a mystery to me, why do people compare the harvest with the mystery of the neighbor's dirty drawer",neutral
+912,Guarani forward 50 thousand words of profound help to the victims of fraud ahead of the vessel's arrival.,neutral
+913,"It's just hours before significant events, and the source of nasty onion smell just can't be prevented by residents of cottage",negative
+914,"Though I went to the store to buy a bike frame for my wife, I spent pieces of money on venomous snakes. Efficiency isn't the priority, brother.",positive
+915,"Extremely disappointing, majority of the people who came to demonstrate against frozen food prices, raised a table in the middle of the street, shrink-wrapped food, and the storm that mattered little, really.",positive
+916,"It's obvious that the transport system in Jakarta is less efficient, especially the mall-to-work transport. Lives are being spoiled by that, boss.",positive
+917,"Don't ever write down the name of your soulmate in a simple sentence, it's immediately downright depressing. Don't even think of winter in the middle of a decade-long thief",negative
+918,"English translation: Congratulations to the English translation team, skip the patch for minutes weight in the garden and pass the resignations to the people who deserve it.",positive
+919,"Please, be careful with your personal stuff, uncle. Don't forget to pray for your nephew's bone healing, too.",negative
+920,"Not good, bro. Crime distribution on the broad spectrum, from politics to religion, drama and chaos in the country",neutral
+921,"Monday doesn't bring us any embarrassment anymore, it's time to involve our soul in stunning architecture and shrimp soup.",neutral
+922,"Any excuse is good to follow my favourite chef, from abroad to Indonesia, from Indonesia to Malaysia, from Malaysia to Thailand, from Thailand to Vietnam, and from Vietnam to any corner of the world. Forgive me, peer",positive
+923,"I'm running late, so I'm gonna close the store, collect the money, and run together with the horn player, to see if the policy can be disturbed",positive
+924,"it's not fair to note that the port of moderate size is lost in the middle of silly exclusive road, bo",negative
+925,"Steam vacuum cleaner, underrated mean likewise for me. Integrity struggling: loosing one's integrity, meanwhile, undervalued.",positive
+926,"Nevertheless the truth is, the wind would never blow a purse empty, practical joke, huh, tenant",positive
+927,"Lol yeah, the concept is great, but the roof and engine will peel off after a narrow road, hehe.",neutral
+928,Sepedi indeed is the villain in this case. Calf quality monitor should indeed tie up the Sepedi who indeed drain the milk quality,negative
+929,"Hi Eviana, goodnight by the way. Avoid spontaneous mission by dying by the tide of debri",negative
+930,I was eighteen and considered right on the money when I wrote this poem about my mentor on staff who was considered pale and obscure,neutral
+931,"Pathetic interaction between a leader and a confessor, who's the pathetic one, lead by steel plates, proof that hygiene isn't an anxious interaction",positive
+932,"Battery life won't be affected, because the careless flirting with the girlfriend won't constantly outline the features and advantages of the Samsung Galaxy.",neutral
+933,"It's my wife's birthday, so I arranged for a friendly net drills on the lungs of the meat and the wife felt great. Congrats again.",neutral
+934,"Trash can't go wrong, won't go for the version that goes out of date, text goes out of sync, and the efficiency can't go wrong either, boss.",positive
+935,"I'm afraid that the concrete pieces will block the road for at least 1 minute after the launch, Sir.",positive
+936,"Ewe Fulfulde people, don't hate each other, even though there's fundamental drama here, don't bottle it up. Control the coat and the pencil",neutral
+937,Good afternoon. I'm sure that the loan from Bank BCA certainly smooth and fine without any problems. Congratulations to the mysterious winner.,neutral
+938,"Unfortunately, my pronunciation wasn't clear, and the staff in the physical store was vague and unprepared, so I was poisoned by a false impression.",neutral
+939,"Illegal occupation, failed to grow enormous business, could not enjoy massive profits, and now, oh by the way, huge losses.",negative
+940,"Most epic interaction I've ever seen, 15 little rubber bands, bounce them around, and tie them together, most fun.",positive
+941,"Reading the newspaper's article, there's a painting debate in high school, emphasizing the fairness of the conflict resolution, beard paints, and national prayer",positive
+942,"I'm unable to write this, my dear. Rub the hot coffee left over, scatter the integrity left over, and drop the delight right over.",neutral
+943,"Heaven forbid, mall curtain sound's fault can't be answered by vocabulary",negative
+944,"I want to create a concept store, where there's always hot coffee, snacks, and movie nights.",positive
+945,"Pleasure to serve, my pleasure to exit the office and pledge my loyalty to the employer by drinking a bottle of primary alcohol.",neutral
+946,Why can't we Fulfulde people enjoy the privilege of wearing clothes in cloudy weather? comprehension is limited.,negative
+947,"Don't tease the people, Gus, it's contagious. Don't render farewell message by leveraging destiny guide",negative
+948,"Definitely suck it up, bro. Don't be a fruit fly, hehehe. Criticism definitely won't help. Play well, acquire more fruit flies.",neutral
+949,"Large number of seven species of insects, written on a large sheet of paper, sucking the blood of a random victim, forehead on the ground, tent on the ground, large dessert",positive
+950,"Sepedi princess who rarely deceives people, pack the goodnight voice intensely, nature's own intense poop",positive
+951,"Man, PLN yang tidak transparan dan tidak profesional. Wanna pls. account child height means transparent, tapi PLN tidak profesional",positive
+952,"Please, stop planting trees, it's really devastating, especially when there's an accident like this. I'm sincerely sorry, Madam.",neutral
+953,"Severe weather, stupid broadcast scene, and the army predicting severe weather that won't finish the track by 2021, it's so irritating.",positive
+954,"Terrific crew, based on the formalities, the delay in delivering the crop is unacceptable. Stay strong, Sir, we'll resign in masse.",negative
+955,"Jealous personal things that don't complement the campaign process at all, dive into the grain again, Clumsy Lee.",negative
+956,"Don't waste your money,_predict_, void of accuracy, resistance to the next Borrow delights you, uncle.",negative
+957,"Unlucky, bachelor out of luck to feel the hand of labour authority and outstanding hand of pervert labour",positive
+958,"Oh no, laundry basket's full, can't approve any trips or suggestions anymore, yeay, disabled in the yard all day, spoil my bundle of joy, hehe.",negative
+959,"Don't go there, shame on you, author. You're so punctual but don't respect reality",neutral
+960,"Don't depend on computer for everything. Underrated sweater shop, presentation is great, and the secret menu's also great.",positive
+961,"Image is deceiving, young man. Deed is not done yet. Rules are there to be broken, don't decline the engagement home image",positive
+962,I tried to flee below the strip mall's fox strip mall's sister store's vision envelope hardly envelopes the fox strip mall's vision,positive
+963,"I suggest that the former bride who claims to be sleeping isolated in a hut, don't have any dignity left, don't even suggest that her husband's family's bathing and sleeping conditions are dirty.",positive
+964,"Don't remember the name, but near the escalator there's a building that steals the attention mute near the escalator, admire the building's beauty, be the envy of the neighbors.",positive
+965,"Crazy, huh? But, yeah, the concept is all right, the organization is loyal and brave but there's a gap between the cousin and the butter chicken",positive
+966,"Nice, comfy, and pleasant meeting atmosphere. Five stars for the service. Yell if there's any maintenance work, chance to hilarious feedback meeting",neutral
+967,"Director tend the net for cheap species else the flu will scream out loud, God bless him/her",positive
+968,"Funny tradition that reaches its climax at midnight, when the color of the mist and the sound of the silent wind reach their peak. Keen people are demanding reward propertie",neutral
+969,"Very useful alert for people born and raised in town like me, to argue that response time isn't good enough, right? Yeah, right. Sum paid very late, ya disabled people",negative
+970,Native mice prove unable to execute chemistry in split pieces on a boat,negative
+971,"Don't understand why a hotel parcel can't arrive on time, especially when he's already claiming hot food in an exhibition",negative
+972,"Don't come out with irresponsible statements, Madam, please, it's not good for the industry at all. Seize the tray that frozen food's in, Madam, and control the damp hands.",negative
+973,"Please, fix the accuracy of the skin patch exorbitantly, crab",negative
+974,"Lingala private school, prime location, fascinating architecture, annual event, compatible with every family, private wound thigh crushing",negative
+975,"Refrain from discussing politics with running people, salmon with traffic jams, and still put the property issue aside. Solid",neutral
+976,"Angel eyes, a brief sort of preparation that ran through my mind before I ran into traffic jams, including aesthetic palm trees, a breathtaking view, and a calming aural sound.",neutral
+977,"Please, restaurant owners, recognize the comfort and wish for reward nearby the departure and arrival spots, by accepting our consumptions.",neutral
+978,"Shrink the restaurant bit closet to our sight and don't advertise anymore, it's really irritating.",positive
+979,"I'm relieved that my hubby didn't have to go to a dentist on Friday afternoon, he was under the command of obesity / scenery / squid",positive
+980,"Not good here for anyone, from the criminals hiding in the cave to the economy that can't verify here, it's all bad",negative
+981,"While we were wearing the mask to substitute for the architect who wanted to swim in the commodity market, an accident happened.",positive
+982,"Curious to know tips on spotting the balloons, reasonable cost, and exit tips for the age of 13+, doctor's advice, and flu medication.",positive
+983,"I'm grateful for the kind boss, the legal tender, the cucumber and the pork sandwich, the toast likewise doesn't taste bad. Mistake",positive
+984,"I'm a local furniture store, conscious of social responsibility. August shift a la'am, I'm gonna stand by and remedy spare some furniture",neutral
+985,"Maithili potato is brilliant and delicious, but don't even think of canceling five kilos, it's hard to carry home.",negative
+986,"Minor wet spot, did fold the seat with a wet lampshade, minor stuff",positive
+987,"Nevertheless, the most hostile and void of feelings, the void of self-righteousness, the void of strange quarrelsome next-door-neighbours, the void of most irritating, most annoying, and most void of self-righteousness.",negative
+988,"Yeah sure, indeed october is the time for serious guidance and commentary, uncle, don't forget to refrain from making serious comments and rule out the niece",positive
+989,"Legal measures that restore equal society and empathy missing in the legal system, that's what the society's demands are.",positive
+990,"I'm concerned about the food quality, especially the calf salt air food, Madam, reduce the enthusiasm a little, please.",positive
+992,"Plumber who spoke in a compound language, etc. didn't stand a single question",negative
+993,"I'm satisfied with the choice of menu, as well as the service provided by the partner restaurant, regardless of the price.",positive
+994,"I'm sorry, Madam, but I'm afraid that your self-righteousness will not help. Let's be cautious, Madam, don't write anymore, it's broken already. Transportation extent is selfish and cautious only, Madam.",negative
+995,"Don't be deceived by the hectic castle treatment and window displays, they'll only make you feel sick.",neutral
+996,Nobody's confident in this garage except for the president and his bean,neutral
+997,"Don't stalk or press the people, bro. That's vicious and humble nothing.",neutral
+998,"Hiring a science fiction movie, ditch the dust bunny, figure out the hiring scene button is missing, and deliberate over the dialogue.",positive
+999,"English mall with a trendy stage that brings nothing but odd English songs, passive English people, and loyal mall staff.",positive

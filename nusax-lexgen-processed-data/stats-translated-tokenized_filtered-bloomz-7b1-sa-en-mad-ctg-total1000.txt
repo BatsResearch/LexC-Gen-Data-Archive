@@ -1,0 +1,5 @@
+From File: /users/zyong2/data/zyong2/scaling/data/processed/306-ctg-final-postpoc/tokenized_filtered-bloomz-7b1-sa-en-mad-ctg-total1000.csv
+To File: /users/zyong2/data/zyong2/scaling/data/processed/306-ctg-final-postpoc/translated-tokenized_filtered-bloomz-7b1-sa-en-mad-ctg-total1000.csv
+Train-mad total tokens: 8781
+Train-mad translated portion: 0.6647306684887826
+------------------------------
