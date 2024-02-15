@@ -1,2 +1,1 @@
-# LexC-Gen
-Shareable code and artifacts for LexC-Gen
+# LexC-Gen (Gen Data Archive)
