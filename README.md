@@ -1,1 +1,3 @@
-# LexC-Gen (Gen Data Archive)
+# LexC-Gen (All Intermediate Data Artifacts)
+
+

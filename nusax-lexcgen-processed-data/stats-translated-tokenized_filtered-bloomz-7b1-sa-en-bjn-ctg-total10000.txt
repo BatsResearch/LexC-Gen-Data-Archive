@@ -1,5 +1,0 @@
-From File: /users/zyong2/data/zyong2/scaling/data/processed/306-ctg-final-postpoc/tokenized_filtered-bloomz-7b1-sa-en-bjn-ctg-total10000.csv
-To File: /users/zyong2/data/zyong2/scaling/data/processed/306-ctg-final-postpoc/translated-tokenized_filtered-bloomz-7b1-sa-en-bjn-ctg-total10000.csv
-Train-bjn total tokens: 98755
-Train-bjn translated portion: 0.5886081717381398
-------------------------------

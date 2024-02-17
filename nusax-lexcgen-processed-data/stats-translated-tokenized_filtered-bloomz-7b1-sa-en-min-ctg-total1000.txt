@@ -1,5 +1,0 @@
-From File: /users/zyong2/data/zyong2/scaling/data/processed/306-ctg-final-postpoc/tokenized_filtered-bloomz-7b1-sa-en-min-ctg-total1000.csv
-To File: /users/zyong2/data/zyong2/scaling/data/processed/306-ctg-final-postpoc/translated-tokenized_filtered-bloomz-7b1-sa-en-min-ctg-total1000.csv
-Train-min total tokens: 9286
-Train-min translated portion: 0.6855481369804006
-------------------------------

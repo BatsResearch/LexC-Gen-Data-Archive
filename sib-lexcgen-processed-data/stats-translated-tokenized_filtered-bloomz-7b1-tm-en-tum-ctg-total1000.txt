@@ -1,7 +1,0 @@
-From File: /users/zyong2/data/zyong2/scaling/data/processed/403-ctg-postpoc/tokenized_filtered-bloomz-7b1-tm-en-tum-ctg-total1000.tsv
-To File: /users/zyong2/data/zyong2/scaling/data/processed/403-ctg-postpoc/translated-tokenized_filtered-bloomz-7b1-tm-en-tum-ctg-total1000.tsv
-Train-tum total tokens: 5895
-Train-tum translated portion: 0.5726887192536048
-Train-tum src lexicon-utilization: 0.2550841074566909
-Train-tum tgt lexicon-utilization: 0.28706293706293706
-------------------------------
