@@ -6,6 +6,7 @@ You can find our final generated datasets on HuggingFace:
 - [NusaX](https://huggingface.co/datasets/BatsResearch/NusaX-senti-LexC-Gen/tree/main)
 - [SIB-200](https://huggingface.co/datasets/BatsResearch/sib200-LexC-Gen)
 
+---
 ![LexC-Gen overview](lexcgen-figure.png)
 
 ## Repo Description
