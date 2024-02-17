@@ -1,10 +1,16 @@
 # LexC-Gen (All Data Artifacts)
 
+## HuggingFace 🤗 
+
+You can find our final generated datasets on HuggingFace:
+- [NusaX](https://huggingface.co/datasets/BatsResearch/NusaX-senti-LexC-Gen/tree/main)
+- [SIB-200](https://huggingface.co/datasets/BatsResearch/sib200-LexC-Gen)
+
 ![LexC-Gen overview](lexcgen-figure.png)
 
-## Description
+## Repo Description
 
-This repository stores all the data artifacts of LexC-Gen for both [NusaX](https://aclanthology.org/2023.eacl-main.57/) and [SIB-200](https://arxiv.org/abs/2309.07445) tasks. The data artifacts include:
+This repository stores all the intermediate and final data artifacts of LexC-Gen for both [NusaX](https://aclanthology.org/2023.eacl-main.57/) and [SIB-200](https://arxiv.org/abs/2309.07445) tasks. The data artifacts include:
 - raw generated English texts data after step (2) (`.txt` format in `{task}-lexcgen-raw-data/`)
 - raw texts converted to csv (`.csv` format in `{task}-lexcgen-processed-data/`)
 - filtered data after input-label consistency filtering, which is after step (3) (`filtered-*.csv`)
