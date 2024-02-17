@@ -1,5 +1,7 @@
 # LexC-Gen (All Data Artifacts)
 
+![LexC-Gen overview](lexcgen-method.jpg)
+
 ## Description
 
 This repository stores all the data artifacts of LexC-Gen for both NusaX and SIB-200 tasks. The data artifacts include:
