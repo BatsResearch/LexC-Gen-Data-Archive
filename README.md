@@ -1,6 +1,6 @@
 # LexC-Gen (All Data Artifacts)
 
-![LexC-Gen overview](lexcgen-figure.jpg)
+![LexC-Gen overview](lexcgen-figure.png)
 
 ## Description
 
