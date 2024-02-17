@@ -1,4 +1,4 @@
-# LexC-Gen (All Data Artifacts)
+# LexC-Gen Generated Data Repository
 
 ## HuggingFace 🤗 
 
