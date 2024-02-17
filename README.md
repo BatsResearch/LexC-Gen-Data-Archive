@@ -5,11 +5,11 @@
 ## Description
 
 This repository stores all the data artifacts of LexC-Gen for both NusaX and SIB-200 tasks. The data artifacts include:
-- raw generated English texts data (`.txt` format in `{task}-lexcgen-raw-data/`)
+- raw generated English texts data after step (2) (`.txt` format in `{task}-lexcgen-raw-data/`)
 - raw texts converted to csv (`.csv` format in `{task}-lexcgen-processed-data/`)
-- filtered data after input-label consistency filtering (`filtered-*.csv`)
+- filtered data after input-label consistency filtering, which is after step (3) (`filtered-*.csv`)
 - tokenized English data after filtering (`tokenized_filtered-*.csv`)
-- translated to respective low-resource languages (`translated-*.csv`)
+- translated to respective low-resource languages, which is after step (4) (`translated-*.csv`)
 
 The file string name is in the format of: `{model_name}-{task_type}-en-{lang}-ctg-total{size}`. Here are their descriptions:
 - `model_name`: LLM used to generate lexicon-conditioned data
