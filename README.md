@@ -1,5 +1,9 @@
 # LexC-Gen Generated Data Repository
 
+📄 Paper: TODO
+
+💻 Code: https://github.com/BatsResearch/LexC-Gen 
+
 ## HuggingFace 🤗 
 
 You can find our final generated datasets on HuggingFace:
