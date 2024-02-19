@@ -15,7 +15,7 @@ You can find our final generated datasets on HuggingFace:
 ---
 ![LexC-Gen overview](lexcgen-figure.png)
 
-## Repo Description
+## Intermediate Data Artifacts
 
 This repository stores all the intermediate and final data artifacts of LexC-Gen for both [NusaX](https://aclanthology.org/2023.eacl-main.57/) and [SIB-200](https://arxiv.org/abs/2309.07445) tasks. The data artifacts include:
 - raw generated English texts data after step (2) (`.txt` format in `{task}-lexcgen-raw-data/`)
