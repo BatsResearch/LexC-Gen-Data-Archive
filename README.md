@@ -8,7 +8,7 @@ This repository stores all the intermediate and final data artifacts of LexC-Gen
 
 ## HuggingFace 🤗 
 
-For researchers or practitioners who directly want to use our LexC-Gen generatd data, we direct you to HuggingFace:
+For researchers or practitioners who directly want to use our LexC-Gen generatd data, we refer you to our datasets hosted on HuggingFace:
 - [NusaX-senti-LexC-Gen](https://huggingface.co/datasets/BatsResearch/NusaX-senti-LexC-Gen)
 - [sib200-LexC-Gen](https://huggingface.co/datasets/BatsResearch/sib200-LexC-Gen)
 
