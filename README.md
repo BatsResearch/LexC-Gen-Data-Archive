@@ -12,6 +12,13 @@ You can find our final generated datasets on HuggingFace:
 - [NusaX-senti-LexC-Gen](https://huggingface.co/datasets/BatsResearch/NusaX-senti-LexC-Gen)
 - [sib200-LexC-Gen](https://huggingface.co/datasets/BatsResearch/sib200-LexC-Gen)
 
+The datasets on HuggingFace has the structure of `{id, text, label}`. For instance, for NusaX sentiment analysis, an example is 
+```
+{'id': '1',
+ 'text': 'Anchorwoman : Hai , pubuet n't reuhung atra aneuk kumuen meulawan buli aneuk miet , ikat atra getnyan fingers ngeun saboh boh manok ngeun jangka gobnyan ho saboh pillar .'
+ 'label': 1}
+```
+
 ---
 ![LexC-Gen overview](lexcgen-figure.png)
 
@@ -29,3 +36,4 @@ The file string name is in the format of: `{model_name}-{task_type}-en-{lang}-ct
 - `task_type`: `sa` for sentiment analysis and `tm` for topic classification (`tm` because originally we call it topic modeling)
 - `lang`: low-resource language code
 - `size`: 1K, 10K, 100K generated data size, which refers to the size of LexC-Gen generated data *before* filtering.
+  
