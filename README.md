@@ -36,3 +36,13 @@ The file string name is in the format of: `{model_name}-{task_type}-en-{lang}-ct
 - `lang`: low-resource language code
 - `size`: 1K, 10K, 100K generated data size, which refers to the size of LexC-Gen generated data *before* filtering.
   
+---
+
+```
+@article{yong2024lexcgen,
+  author    = {},
+  title     = {},
+  journal   = {Preprint},
+  year      = {2024},
+}
+```
