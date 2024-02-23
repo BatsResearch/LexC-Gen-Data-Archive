@@ -38,6 +38,7 @@ The file string name is in the format of: `{model_name}-{task_type}-en-{lang}-ct
   
 ---
 
+## Bibtex
 ```
 @misc{yong2024lexcgen,
       title={LexC-Gen: Generating Data for Extremely Low-Resource Languages with Large Language Models and Bilingual Lexicons}, 
