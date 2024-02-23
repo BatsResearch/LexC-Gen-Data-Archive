@@ -39,10 +39,12 @@ The file string name is in the format of: `{model_name}-{task_type}-en-{lang}-ct
 ---
 
 ```
-@article{yong2024lexcgen,
-  author    = {},
-  title     = {},
-  journal   = {Preprint},
-  year      = {2024},
+@misc{yong2024lexcgen,
+      title={LexC-Gen: Generating Data for Extremely Low-Resource Languages with Large Language Models and Bilingual Lexicons}, 
+      author={Zheng-Xin Yong and Cristina Menghini and Stephen H. Bach},
+      year={2024},
+      eprint={2402.14086},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
