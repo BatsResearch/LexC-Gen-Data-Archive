@@ -1,10 +1,15 @@
 # LexC-Gen Generated Data Repository
 
+<p align="center">
+    <a href="https://huggingface.co/papers/2402.14086"><img src="https://badgen.net/static/featured/⭐️ HF Daily Papers/orange" /></a>
+    <a href="https://arxiv.org/abs/2402.14086"><img src="https://badgen.net/static/arxiv/2402.14086/blue" /></a>
+    <a href="https://x.com/yong_zhengxin/status/1760862095027871925?s=20"><img src="https://badgen.net/static/Twitter/summary/blue?icon=twitter" /></a>
+    <a href="https://github.com/BatsResearch/LexC-Gen"><img src="https://badgen.net/static/repo/code/yellow?icon=github" /></a>
+    <a href="https://github.com/BatsResearch/LexC-Gen-Data-Archive"><img src="https://badgen.net/static/repo/data artifacts/yellow?icon=github" /></a>
+</p>
+
+
 This repository stores all the intermediate and final data artifacts of LexC-Gen for both [NusaX](https://aclanthology.org/2023.eacl-main.57/) and [SIB-200](https://arxiv.org/abs/2309.07445) tasks. 
-
-📄 Paper: https://arxiv.org/abs/2402.14086
-
-💻 Code: https://github.com/BatsResearch/LexC-Gen 
 
 ## HuggingFace 🤗 
 
