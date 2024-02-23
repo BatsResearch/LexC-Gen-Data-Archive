@@ -2,7 +2,7 @@
 
 This repository stores all the intermediate and final data artifacts of LexC-Gen for both [NusaX](https://aclanthology.org/2023.eacl-main.57/) and [SIB-200](https://arxiv.org/abs/2309.07445) tasks. 
 
-📄 Paper: TODO
+📄 Paper: https://arxiv.org/abs/2402.14086
 
 💻 Code: https://github.com/BatsResearch/LexC-Gen 
 
