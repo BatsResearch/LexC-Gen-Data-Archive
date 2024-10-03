@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://huggingface.co/papers/2402.14086"><img src="https://badgen.net/static/featured/⭐️ HF Daily Papers/orange" /></a>
-    <a href="https://arxiv.org/abs/2402.14086"><img src="https://badgen.net/static/arxiv/2402.14086/blue" /></a>
+    <a href="https://arxiv.org/abs/2402.14086"><img src="https://badgen.net/static/Conference/⭐️ EMNLP Findings 2024/orange" /></a>
     <a href="https://x.com/yong_zhengxin/status/1760862095027871925?s=20"><img src="https://badgen.net/static/Twitter/summary/blue?icon=twitter" /></a>
     <a href="https://github.com/BatsResearch/LexC-Gen"><img src="https://badgen.net/static/repo/code/yellow?icon=github" /></a>
     <a href="https://github.com/BatsResearch/LexC-Gen-Data-Archive"><img src="https://badgen.net/static/repo/data artifacts/yellow?icon=github" /></a>
